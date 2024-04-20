@@ -16,14 +16,16 @@ const Double_t T = 156.5, Terr = 1.5; // temperature in MeV
 const Int_t nIter = 1e6; // number of iterations for the infinite sum approximation
 
 struct Particle {
-    std::string name;
     Int_t stable;
+    std::string name;
     Int_t PDGcode;
     Int_t degeneracy;
     Int_t statistics;
     Double_t mass;
     Double_t yield;
     Double_t yieldErr;
+
+    Particle(Int_t stable, std::string name, Int_t PDGcode, Int_t degeneracy, Int_t statistics, Double_t mass) : stable(stable), name(name), PDGcode(PDGcode), degeneracy(degeneracy), statistics(statistics), mass(mass), yield(0.0), yieldErr(0.0) {}
 
     void calcYield() {
         Double_t sum = 0.0;
@@ -46,31 +48,46 @@ struct Particle {
     }
 };
 
-std::vector<Particle> particles;
+std::vector<std::pair<std::string, Particle>> particles;
 
 // load data from external file
 void loadData() {
     std::ifstream file("PartList_PPB2021_CBHN.txt");
     if (!file.is_open()) {
         std::cout << "ERROR: Unable to open file." << std::endl;
-        return 1;
+        return;
     }
     std::string line;
+    Int_t counter = 0;
     while (std::getline(file, line)) {
+        if (line.empty()) continue; // Skip empty lines
         std::stringstream ss(line);
-        std::string col1, col2; // replace with actual column names
-        std::getline(ss, col1, '\t');
-        std::getline(ss, col2, '\t');
-        // Push columns into corresponding vectors
-        column1.push_back(col1);
-        column2.push_back(col2);
-        // Add more columns as needed
+        Int_t stable;
+        std::string name;
+        Int_t PDGcode;
+        Int_t degeneracy;
+        Int_t statistics;
+        Double_t mass;
+        ss >> stable >> name >> PDGcode >> degeneracy >> statistics >> mass;
+        Particle p(stable, name, PDGcode, degeneracy, statistics, mass);
+        p.calcYield();
+        p.calcYieldErr();
+        particles.push_back(std::make_pair(name, p));
+        counter++;
+        std::cout << Form("particle %d: %s, %d, %d, %d, %d, %f; Yield = %d +- %d", counter, name.c_str(), stable, PDGcode, degeneracy, statistics, mass, p.yield, p.yieldErr) << std::endl;
     }
     file.close();
 }
 
-
-
 void calcYields() {
+    std::cout << "LOADING DATA" << std::endl;
+    loadData();
+    std::cout << "ALL DATA LOADED" << std::endl;
 
+    // print results
+    // std::cout << "RESULTS" << std::endl;
+    // for (auto p : particles) {
+    //     std::cout << "Particle: " << p.first << std::endl;
+    //     std::cout << "Yield: " << p.second.yield << " +/- " << p.second.yieldErr << std::endl;
+    // }
 }
