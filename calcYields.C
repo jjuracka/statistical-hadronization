@@ -16,7 +16,7 @@ const Double_t T = 156.5, Terr = 1.5; // temperature in MeV
 const Int_t nIter = 1e6; // number of iterations for the infinite sum approximation
 
 struct Particle {
-    Int_t stable;
+    bool stable;
     std::string name;
     Int_t PDGcode;
     Int_t degeneracy;
@@ -24,8 +24,7 @@ struct Particle {
     Double_t mass;
     Double_t yield;
     Double_t yieldErr;
-
-    Particle(Int_t stable, std::string name, Int_t PDGcode, Int_t degeneracy, Int_t statistics, Double_t mass) : stable(stable), name(name), PDGcode(PDGcode), degeneracy(degeneracy), statistics(statistics), mass(mass), yield(0.0), yieldErr(0.0) {}
+    std::vector<std::pair<Double_t, std::vector<Int_t>>> decayChannels;
 
     void calcYield() {
         Double_t sum = 0.0;
@@ -46,23 +45,45 @@ struct Particle {
         }
         yieldErr = TMath::Sqrt(TMath::Power(Verr*dNdV, 2) + TMath::Power(muBerr*dNdmuB, 2) + TMath::Power(Terr*dNdT, 2));
     }
+
+    void loadDecayChannels() {
+        if (stable) return;
+        std::ifstream file(Form("particles/%s_decay.txt", name.c_str()));
+        if (!file.is_open()) {
+            std::cout << "\tERROR: Unable to open file with decay information." << std::endl;
+            return;
+        }
+        std::string line;
+        while (std::getline(file, line)) {
+            std::stringstream ss(line);
+            Double_t branchingRatio;
+            ss >> branchingRatio;
+            std::vector<Int_t> daughters;
+            Int_t daughter;
+            while (ss >> daughter) {
+                daughters.push_back(daughter);
+            }
+            decayChannels.push_back(std::make_pair(branchingRatio, daughters));
+        }
+    }
+
+    Particle(bool stable, std::string name, Int_t PDGcode, Int_t degeneracy, Int_t statistics, Double_t mass) : stable(stable), name(name), PDGcode(PDGcode), degeneracy(degeneracy), statistics(statistics), mass(mass) {calcYield(); calcYieldErr(); loadDecayChannels();}
 };
 
-std::vector<std::pair<std::string, Particle>> particles;
+std::vector<std::pair<Int_t, Particle>> particles;
 
 // load data from external file
 void loadData() {
-    std::ifstream file("particles/PartList_PPB2021_CBHN.txt");
+    std::ifstream file("particles/PartList_PPB2014_CBHN.txt");
     if (!file.is_open()) {
         std::cout << "ERROR: Unable to open file." << std::endl;
         return;
     }
     std::string line;
-    Int_t counter = 0;
     while (std::getline(file, line)) {
         if (line.empty()) continue; // Skip empty lines
         std::stringstream ss(line);
-        Int_t stable;
+        bool stable;
         std::string name;
         Int_t PDGcode;
         Int_t degeneracy;
@@ -70,24 +91,39 @@ void loadData() {
         Double_t mass;
         ss >> stable >> name >> PDGcode >> degeneracy >> statistics >> mass;
         Particle p(stable, name, PDGcode, degeneracy, statistics, mass);
-        p.calcYield();
-        p.calcYieldErr();
-        particles.push_back(std::make_pair(name, p));
-        counter++;
-        std::cout << Form("particle %d: %s, %d, %d, %d, %d, %f; Yield = %d +- %d", counter, name.c_str(), stable, PDGcode, degeneracy, statistics, mass, p.yield, p.yieldErr) << std::endl;
+        particles.push_back(std::make_pair(PDGcode, p));
+        std:cout << Form("loaded %s (PDG %i): stable %i, mass %f, degeneracy %d, statistics %d", p.name.c_str(), p.PDGcode, p.stable, p.mass, p.degeneracy, p.statistics) << std::endl;
+        std::cout << "\t" << Form("calculated yield: %f +- %f", p.yield, p.yieldErr) << std::endl;
+        if (!p.stable) {
+            for (const auto& decayChannel : p.decayChannels) {
+                Double_t branchingRatio = decayChannel.first;
+                const auto& daughters = decayChannel.second;
+                std::cout << "\t" << Form("decay channel with BR %f:", branchingRatio/100);
+                for (const auto& daughter : daughters) {
+                    std::cout << " " << daughter;
+                }
+                std::cout << std::endl;
+            }
+        }
     }
     file.close();
 }
 
 void calcYields() {
-    std::cout << "LOADING DATA" << std::endl;
-    loadData();
-    std::cout << "ALL DATA LOADED" << std::endl;
+    loadData(); // loads data and calculates primary yields
 
-    // print results
-    // std::cout << "RESULTS" << std::endl;
-    // for (auto p : particles) {
-    //     std::cout << "Particle: " << p.first << std::endl;
-    //     std::cout << "Yield: " << p.second.yield << " +/- " << p.second.yieldErr << std::endl;
+    // Adjust the yield for each particle based on decay channels
+    // this breaks the code currently
+    // for (auto& pair : particles) {
+    //     auto& particle = pair.second;
+    //     if (!particle.stable) {
+    //         for (const auto& decayChannel : particle.decayChannels) {
+    //             Double_t branchingRatio = decayChannel.first;
+    //             const auto& daughters = decayChannel.second;
+    //             for (const auto& daughter : daughters) {
+    //                 particles[std::abs(daughter)].second.yield += particle.yield * branchingRatio/100/daughters.size();
+    //             }
+    //         }
+    //     }
     // }
 }
