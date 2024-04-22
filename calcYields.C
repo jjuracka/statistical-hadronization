@@ -52,7 +52,7 @@ std::vector<std::pair<std::string, Particle>> particles;
 
 // load data from external file
 void loadData() {
-    std::ifstream file("PartList_PPB2021_CBHN.txt");
+    std::ifstream file("particles/PartList_PPB2021_CBHN.txt");
     if (!file.is_open()) {
         std::cout << "ERROR: Unable to open file." << std::endl;
         return;
