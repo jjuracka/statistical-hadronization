@@ -13,7 +13,7 @@ const Double_t V = 5280.0, Verr = 410.0; // volume of the fireball in fm^3
 const Double_t muB = 0.7, muBerr = 3.8; // baryon chemical potential in MeV
 const Double_t T = 156.5, Terr = 1.5; // temperature in MeV
 
-const Int_t nIter = 1e6; // number of iterations for the infinite sum approximation
+const Int_t nIter = 1e5; // number of iterations for the infinite sum approximation
 
 struct Particle {
     bool stable;
