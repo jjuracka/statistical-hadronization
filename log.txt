@@ -1,0 +1,1987 @@
+
+Processing calcYields.C...
+loaded Deuteron (PDG 1000010020): stable 1, mass 1.875613, degeneracy 3, statistics -1
+	calculated primary yield: 7438572273.622093 +- 628318042.651327
+loaded Triton (PDG 1000010030): stable 1, mass 2.808921, degeneracy 2, statistics 1
+	calculated primary yield: 3712259166.905451 +- 299754266.965475
+loaded HE3 (PDG 1000020030): stable 1, mass 2.808391, degeneracy 2, statistics 1
+	calculated primary yield: 3712259253.224313 +- 299754273.613948
+loaded Alpha (PDG 1000020040): stable 1, mass 3.727379, degeneracy 1, statistics -1
+	calculated primary yield: 2478466849.528217 +- 209201266.562578
+loaded LambdaNeutron (PDG 1010000020): stable 1, mass 2.057000, degeneracy 3, statistics -1
+	calculated primary yield: 7438341319.961964 +- 628261351.276389
+loaded LambdaProton (PDG 1010010020): stable 1, mass 2.255000, degeneracy 3, statistics -1
+	calculated primary yield: 7438068192.477678 +- 628195515.470261
+loaded DiLambda (PDG 1020000020): stable 1, mass 2.231000, degeneracy 1, statistics -1
+	calculated primary yield: 2479367482.977707 +- 209401234.991197
+loaded HyperTriton (PDG 1010010030): stable 1, mass 2.991140, degeneracy 2, statistics 1
+	calculated primary yield: 3712228519.574905 +- 299751902.960745
+loaded HyperHydrogen (PDG 1010010040): stable 1, mass 3.922500, degeneracy 1, statistics -1
+	calculated primary yield: 2478322929.705815 +- 209171590.271439
+loaded HyperHelium (PDG 1010020040): stable 1, mass 3.921190, degeneracy 1, statistics -1
+	calculated primary yield: 2478323915.092792 +- 209171791.735663
+loaded HyperHelium5 (PDG 1010020050): stable 1, mass 4.839900, degeneracy 2, statistics 1
+	calculated primary yield: 3711808199.289466 +- 299719070.332910
+loaded pi+ (PDG 211): stable 1, mass 0.139570, degeneracy 1, statistics -1
+	calculated primary yield: 2479918383.976079 +- 209542695.586605
+loaded pi0 (PDG 111): stable 1, mass 0.134980, degeneracy 1, statistics -1
+	calculated primary yield: 2479918533.834897 +- 209542738.040222
+loaded eta (PDG 221): stable 0, mass 0.547300, degeneracy 1, statistics -1
+	calculated primary yield: 2479885336.420972 +- 209533439.169043
+	decay channel with BR 0.325100: 111 111 111
+	decay channel with BR 0.226000: 211 -211 111
+	decay channel with BR 0.046800: 211 -211
+loaded f0(600) (PDG 9000221): stable 0, mass 0.484000, degeneracy 0, statistics -1
+	calculated primary yield: 0.000000 +- 0.000000
+	decay channel with BR 1.000000: 211 -211
+loaded rho+ (PDG 213): stable 0, mass 0.771100, degeneracy 3, statistics -1
+	calculated primary yield: 7439552817.441673 +- 628571923.163479
+	decay channel with BR 1.000000: 211 111
+loaded rho0 (PDG 113): stable 0, mass 0.771100, degeneracy 3, statistics -1
+	calculated primary yield: 7439552817.441673 +- 628571923.163479
+	decay channel with BR 1.000000: 211 -211
+loaded omega(782) (PDG 223): stable 0, mass 0.782570, degeneracy 3, statistics -1
+	calculated primary yield: 7439546619.746854 +- 628570231.701412
+	decay channel with BR 0.891000: 211 -211 111
+	decay channel with BR 0.087000: 111
+	decay channel with BR 0.017000: 211 -211
+loaded eta'(958) (PDG 331): stable 0, mass 0.957780, degeneracy 1, statistics -1
+	calculated primary yield: 2479813705.853191 +- 209513884.751226
+	decay channel with BR 0.443000: 211 -211 221
+	decay channel with BR 0.295000: 113
+	decay channel with BR 0.209000: 111 111 221
+	decay channel with BR 0.030300: 223
+loaded f0(980) (PDG 9010221): stable 0, mass 0.980000, degeneracy 1, statistics -1
+	calculated primary yield: 2479808766.184340 +- 209512557.061643
+	decay channel with BR 0.666700: 211 -211
+	decay channel with BR 0.333300: 111 111
+loaded a0(980)+ (PDG 9000211): stable 0, mass 0.984700, degeneracy 1, statistics -1
+	calculated primary yield: 2479807707.625929 +- 209512272.856281
+	decay channel with BR 1.000000: 221 211
+loaded a0(980)0 (PDG 9000111): stable 0, mass 0.984700, degeneracy 1, statistics -1
+	calculated primary yield: 2479807707.625929 +- 209512272.856281
+	decay channel with BR 1.000000: 221 111
+loaded phi(1020) (PDG 333): stable 0, mass 1.019460, degeneracy 3, statistics -1
+	calculated primary yield: 7439399191.609333 +- 628530403.993931
+	decay channel with BR 0.492000: 321 -321
+	decay channel with BR 0.337000: 311 -311
+	decay channel with BR 0.155000: 211 -211 111
+	decay channel with BR 0.013000: 221
+loaded h1(1170) (PDG 10223): stable 0, mass 1.170000, degeneracy 3, statistics -1
+	calculated primary yield: 7439286580.564518 +- 628500459.059393
+	decay channel with BR 0.333300: 213 -211
+	decay channel with BR 0.333300: 113 111
+	decay channel with BR 0.333300: -213 211
+loaded b1(1235)+ (PDG 10213): stable 0, mass 1.229500, degeneracy 3, statistics -1
+	calculated primary yield: 7439238098.253879 +- 628487681.996048
+	decay channel with BR 1.000000: 223 211
+loaded b1(1235)0 (PDG 10113): stable 0, mass 1.229500, degeneracy 3, statistics -1
+	calculated primary yield: 7439238098.253879 +- 628487681.996048
+	decay channel with BR 1.000000: 223 111
+loaded a1(1260)+ (PDG 20213): stable 0, mass 1.230000, degeneracy 3, statistics -1
+	calculated primary yield: 7439237681.392977 +- 628487572.423386
+	decay channel with BR 0.500000: 213 111
+	decay channel with BR 0.500000: 113 211
+loaded a1(1260)0 (PDG 20113): stable 0, mass 1.230000, degeneracy 3, statistics -1
+	calculated primary yield: 7439237681.392977 +- 628487572.423386
+	decay channel with BR 0.500000: 213 -211
+	decay channel with BR 0.500000: -213 211
+loaded f2(1270) (PDG 225): stable 0, mass 1.275400, degeneracy 5, statistics -1
+	calculated primary yield: 12398665295.725079 +- 1047462453.718257
+	decay channel with BR 0.564700: 211 -211
+	decay channel with BR 0.282300: 111 111
+	decay channel with BR 0.071000: 211 -211 111 111
+	decay channel with BR 0.023000: 321 -321
+	decay channel with BR 0.023000: 311 -311
+	decay channel with BR 0.028000: 211 211 -211 -211
+loaded f1(1285) (PDG 20223): stable 0, mass 1.281900, degeneracy 3, statistics -1
+	calculated primary yield: 7439193559.299363 +- 628476001.883187
+	decay channel with BR 0.220000: 111 111 211 -211
+	decay channel with BR 0.110000: 211 211 -211 -211
+	decay channel with BR 0.110000: 211 -211 113
+	decay channel with BR 0.120000: 9000211 -211
+	decay channel with BR 0.120000: 9000111 111
+	decay channel with BR 0.120000: -9000211 211
+	decay channel with BR 0.106700: 221 211 -211
+	decay channel with BR 0.053300: 221 111 111
+	decay channel with BR 0.022500: 321 -321 111
+	decay channel with BR 0.022500: 321 -311 -211
+	decay channel with BR 0.022500: 311 -321 211
+	decay channel with BR 0.022500: 311 -311 111
+	decay channel with BR 0.055000: 113
+loaded eta(1295) (PDG 100221): stable 0, mass 1.293000, degeneracy 1, statistics -1
+	calculated primary yield: 2479727968.120469 +- 209491159.009532
+	decay channel with BR 0.666700: 221 211 -211
+	decay channel with BR 0.333300: 221 111 111
+loaded pi(1300)+ (PDG 100211): stable 0, mass 1.300000, degeneracy 1, statistics -1
+	calculated primary yield: 2479725925.405409 +- 209490625.252215
+	decay channel with BR 0.500000: 211 113
+	decay channel with BR 0.500000: 111 213
+loaded pi(1300)0 (PDG 100111): stable 0, mass 1.300000, degeneracy 1, statistics -1
+	calculated primary yield: 2479725925.405409 +- 209490625.252215
+	decay channel with BR 0.500000: 211 -213
+	decay channel with BR 0.500000: -211 213
+loaded a2(1320)+ (PDG 215): stable 0, mass 1.318000, degeneracy 5, statistics -1
+	calculated primary yield: 12398603130.440651 +- 1047446210.507058
+	decay channel with BR 0.350500: 213 111
+	decay channel with BR 0.350500: 113 211
+	decay channel with BR 0.145000: 211 221
+	decay channel with BR 0.106000: 223 211 111
+	decay channel with BR 0.049000: 321 -311
+loaded a2(1320)0 (PDG 115): stable 0, mass 1.318000, degeneracy 5, statistics -1
+	calculated primary yield: 12398603130.440651 +- 1047446210.507058
+	decay channel with BR 0.350500: 211 -213
+	decay channel with BR 0.350500: -211 213
+	decay channel with BR 0.145000: 111 221
+	decay channel with BR 0.106000: 223 211 -211
+	decay channel with BR 0.024500: 321 -321
+	decay channel with BR 0.024500: 311 -311
+loaded f0(1370) (PDG 10221): stable 0, mass 1.350000, degeneracy 1, statistics -1
+	calculated primary yield: 2479711039.752518 +- 209486745.634343
+	decay channel with BR 0.666700: 211 -211
+	decay channel with BR 0.333300: 111 111
+loaded f1(1420) (PDG 20333): stable 0, mass 1.426300, degeneracy 3, statistics -1
+	calculated primary yield: 7439062000.461839 +- 628441807.061908
+	decay channel with BR 0.250000: 321 -323
+	decay channel with BR 0.250000: -321 323
+	decay channel with BR 0.250000: 311 -313
+	decay channel with BR 0.250000: -311 313
+loaded omega(1420) (PDG 100223): stable 0, mass 1.419000, degeneracy 3, statistics -1
+	calculated primary yield: 7439068959.249903 +- 628443604.775621
+	decay channel with BR 0.333300: 213 -211
+	decay channel with BR 0.333300: 113 111
+	decay channel with BR 0.333300: -213 211
+loaded eta(1440) (PDG 100331): stable 0, mass 1.435000, degeneracy 1, statistics -1
+	calculated primary yield: 2479684554.861244 +- 209479885.055582
+	decay channel with BR 0.050000: 321 -321 111
+	decay channel with BR 0.050000: 321 -311 -211
+	decay channel with BR 0.050000: 311 -311 111
+	decay channel with BR 0.050000: 311 -321 211
+	decay channel with BR 0.050000: 321 -323
+	decay channel with BR 0.050000: -321 323
+	decay channel with BR 0.050000: 311 -313
+	decay channel with BR 0.050000: -311 313
+	decay channel with BR 0.133300: 221 211 -211
+	decay channel with BR 0.066700: 221 111 111
+	decay channel with BR 0.200000: 9010221 221
+	decay channel with BR 0.066700: 211 -211 211 -211
+	decay channel with BR 0.066700: 211 -211 111 111
+	decay channel with BR 0.066700: 111 111 111 111
+loaded a0(1450)+ (PDG 10211): stable 0, mass 1.474000, degeneracy 1, statistics -1
+	calculated primary yield: 2479671909.984888 +- 209476627.935877
+	decay channel with BR 0.333330: 211 221
+	decay channel with BR 0.333330: 211 331
+	decay channel with BR 0.333330: 321 -311
+loaded a0(1450)0 (PDG 10111): stable 0, mass 1.474000, degeneracy 1, statistics -1
+	calculated primary yield: 2479671909.984888 +- 209476627.935877
+	decay channel with BR 0.333330: 111 221
+	decay channel with BR 0.333330: 111 331
+	decay channel with BR 0.166670: 321 -321
+	decay channel with BR 0.166670: 311 -311
+loaded rho(1450)+ (PDG 100213): stable 0, mass 1.465000, degeneracy 3, statistics -1
+	calculated primary yield: 7439024566.230197 +- 628432156.779072
+	decay channel with BR 1.000000: 211 111
+loaded rho(1450)0 (PDG 100113): stable 0, mass 1.465000, degeneracy 3, statistics -1
+	calculated primary yield: 7439024566.230197 +- 628432156.779072
+	decay channel with BR 1.000000: 211 -211
+loaded f0(1500) (PDG 9020221): stable 0, mass 1.507000, degeneracy 1, statistics -1
+	calculated primary yield: 2479660970.029022 +- 209473819.272194
+	decay channel with BR 0.200000: 221 331
+	decay channel with BR 0.200000: 221 221
+	decay channel with BR 0.100000: 111 111 111 111
+	decay channel with BR 0.100000: 211 -211 211 -211
+	decay channel with BR 0.133300: 211 -211
+	decay channel with BR 0.066700: 111 111
+	decay channel with BR 0.100000: 321 -321
+	decay channel with BR 0.100000: 311 -311
+loaded f2'(1525) (PDG 335): stable 0, mass 1.525000, degeneracy 5, statistics -1
+	calculated primary yield: 12398274551.349689 +- 1047361335.855062
+	decay channel with BR 0.444000: 321 -321
+	decay channel with BR 0.444000: 311 -311
+	decay channel with BR 0.103000: 221 221
+	decay channel with BR 0.002700: 111 111
+	decay channel with BR 0.005500: 211 -211
+loaded omega(1650) (PDG 30223): stable 0, mass 1.649000, degeneracy 3, statistics -1
+	calculated primary yield: 7438834215.665271 +- 628383593.912338
+	decay channel with BR 0.111100: 213 -211
+	decay channel with BR 0.111100: 113 111
+	decay channel with BR 0.111100: -213 211
+	decay channel with BR 0.222200: 223 211 -211
+	decay channel with BR 0.111100: 223 111 111
+	decay channel with BR 0.333300: 223 221
+loaded omega3(1670) (PDG 227): stable 0, mass 1.667000, degeneracy 7, statistics -1
+	calculated primary yield: 17357233854.642471 +- 1466216762.949655
+	decay channel with BR 0.166700: 213 -211
+	decay channel with BR 0.166700: 113 111
+	decay channel with BR 0.166700: -213 211
+	decay channel with BR 0.166700: 223 111 111
+	decay channel with BR 0.333300: 223 211 -211
+loaded pi2(1670)+ (PDG 10215): stable 0, mass 1.670000, degeneracy 5, statistics -1
+	calculated primary yield: 12398018676.807783 +- 1047296297.669814
+	decay channel with BR 0.562000: 225 211
+	decay channel with BR 0.155000: 211 113
+	decay channel with BR 0.155000: 111 213
+	decay channel with BR 0.130000: 9000221 211
+	decay channel with BR 0.087000: 10221 211
+	decay channel with BR 0.021000: 321 -313
+	decay channel with BR 0.021000: 323 -311
+	decay channel with BR 0.027000: 223 213
+loaded pi2(1670)0 (PDG 10115): stable 0, mass 1.670000, degeneracy 5, statistics -1
+	calculated primary yield: 12398018676.807783 +- 1047296297.669814
+	decay channel with BR 0.562000: 225 111
+	decay channel with BR 0.155000: 211 -213
+	decay channel with BR 0.155000: -211 213
+	decay channel with BR 0.130000: 9000221 111
+	decay channel with BR 0.087000: 10221 111
+	decay channel with BR 0.010500: 321 -323
+	decay channel with BR 0.010500: -321 323
+	decay channel with BR 0.010500: 311 -313
+	decay channel with BR 0.010500: -311 313
+	decay channel with BR 0.027000: 223 113
+loaded phi(1680) (PDG 100333): stable 0, mass 1.680000, degeneracy 3, statistics -1
+	calculated primary yield: 7438800157.546567 +- 628374990.309877
+	decay channel with BR 0.250000: 321 -323
+	decay channel with BR 0.250000: -321 323
+	decay channel with BR 0.250000: 311 -313
+	decay channel with BR 0.250000: -311 313
+loaded rho3(1690)+ (PDG 217): stable 0, mass 1.691000, degeneracy 7, statistics -1
+	calculated primary yield: 17357171850.747166 +- 1466201121.086548
+	decay channel with BR 0.670000: 211 211 -211 111
+	decay channel with BR 0.160000: 223 211
+	decay channel with BR 0.236000: 211 111
+	decay channel with BR 0.012700: 321 -321 211
+	decay channel with BR 0.012700: 311 -311 211
+	decay channel with BR 0.012700: 321 -311 111
+	decay channel with BR 0.015800: 321 -311
+loaded rho3(1690)0 (PDG 117): stable 0, mass 1.691000, degeneracy 7, statistics -1
+	calculated primary yield: 17357171850.747166 +- 1466201121.086548
+	decay channel with BR 0.670000: 111 211 -211 111
+	decay channel with BR 0.160000: 223 111
+	decay channel with BR 0.236000: 211 -211
+	decay channel with BR 0.009500: 321 -321 111
+	decay channel with BR 0.009500: 321 -311 -211
+	decay channel with BR 0.009500: 311 -311 111
+	decay channel with BR 0.009500: 311 -321 211
+	decay channel with BR 0.007900: 321 -321
+	decay channel with BR 0.007900: 311 -311
+loaded rho(1700)+ (PDG 30213): stable 0, mass 1.700000, degeneracy 3, statistics -1
+	calculated primary yield: 7438777883.608657 +- 628369377.012013
+	decay channel with BR 0.250000: 213 211 -211
+	decay channel with BR 0.250000: 213 111 111
+	decay channel with BR 0.250000: 113 211 111
+	decay channel with BR 0.250000: -213 211 211
+loaded rho(1700)0 (PDG 30113): stable 0, mass 1.700000, degeneracy 3, statistics -1
+	calculated primary yield: 7438777883.608657 +- 628369377.012013
+	decay channel with BR 0.333300: 211 -211 211 -211
+	decay channel with BR 0.333300: 113 211 -211
+	decay channel with BR 0.166700: 213 -211 111
+	decay channel with BR 0.166700: -213 211 111
+loaded f0(1710) (PDG 10331): stable 0, mass 1.713000, degeneracy 1, statistics -1
+	calculated primary yield: 2479587759.781542 +- 209455234.088769
+	decay channel with BR 0.166700: 321 -321
+	decay channel with BR 0.166700: 311 -311
+	decay channel with BR 0.333300: 221 221
+	decay channel with BR 0.222200: 211 -211
+	decay channel with BR 0.111100: 111 111
+loaded pi(1800)+ (PDG 200211): stable 0, mass 1.801000, degeneracy 1, statistics -1
+	calculated primary yield: 2479553939.867046 +- 209446764.946110
+	decay channel with BR 0.100000: 211 111 111
+	decay channel with BR 0.100000: 211 211 -211
+	decay channel with BR 0.200000: 221 221 211
+	decay channel with BR 0.200000: 221 331 211
+	decay channel with BR 0.200000: 10321 -311
+	decay channel with BR 0.200000: 323 -311
+loaded pi(1800)0 (PDG 200111): stable 0, mass 1.801000, degeneracy 1, statistics -1
+	calculated primary yield: 2479553939.867046 +- 209446764.946110
+	decay channel with BR 0.100000: 211 -211 111
+	decay channel with BR 0.100000: 111 111 111
+	decay channel with BR 0.200000: 221 221 111
+	decay channel with BR 0.200000: 221 331 111
+	decay channel with BR 0.100000: 10321 -321
+	decay channel with BR 0.100000: 10311 -311
+	decay channel with BR 0.100000: 323 -321
+	decay channel with BR 0.100000: 313 -311
+loaded phi3(1850) (PDG 337): stable 0, mass 1.854000, degeneracy 7, statistics -1
+	calculated primary yield: 17356729932.446129 +- 1466090626.394135
+	decay channel with BR 0.250000: 321 -321
+	decay channel with BR 0.250000: 311 -311
+	decay channel with BR 0.125000: 321 -323
+	decay channel with BR 0.125000: -321 323
+	decay channel with BR 0.125000: 311 -313
+	decay channel with BR 0.125000: -311 313
+loaded f2(2010) (PDG 100335): stable 0, mass 2.011000, degeneracy 5, statistics -1
+	calculated primary yield: 12397336086.868668 +- 1047126777.866122
+	decay channel with BR 1.000000: 333 333
+loaded a4(2040)+ (PDG 219): stable 0, mass 2.011000, degeneracy 9, statistics -1
+	calculated primary yield: 22315204956.363594 +- 1884828200.159021
+	decay channel with BR 0.250000: 321 -311
+	decay channel with BR 0.125000: 211 -211 211
+	decay channel with BR 0.125000: 211 111 111
+	decay channel with BR 0.250000: 221 211
+	decay channel with BR 0.250000: 331 211
+loaded a4(2040)0 (PDG 119): stable 0, mass 2.011000, degeneracy 9, statistics -1
+	calculated primary yield: 22315204956.363594 +- 1884828200.159021
+	decay channel with BR 0.125000: 321 -321
+	decay channel with BR 0.125000: 311 -311
+	decay channel with BR 0.250000: 211 -211 111
+	decay channel with BR 0.250000: 221 111
+	decay channel with BR 0.250000: 331 111
+loaded f4(2050) (PDG 229): stable 0, mass 2.025000, degeneracy 9, statistics -1
+	calculated primary yield: 22315150248.154625 +- 1884814835.900487
+	decay channel with BR 0.113300: 211 -211
+	decay channel with BR 0.056700: 111 111
+	decay channel with BR 0.003400: 321 -321
+	decay channel with BR 0.003400: 311 -311
+	decay channel with BR 0.002100: 221 221
+	decay channel with BR 0.006000: 111 111 111 111
+loaded f2(2300) (PDG 9060225): stable 0, mass 2.297000, degeneracy 5, statistics -1
+	calculated primary yield: 12396679147.236296 +- 1046968415.446062
+	decay channel with BR 1.000000: 333 333
+loaded f2(2340) (PDG 9070225): stable 0, mass 2.339000, degeneracy 5, statistics -1
+	calculated primary yield: 12396576379.023031 +- 1046944023.762634
+	decay channel with BR 0.250000: 321 -321
+	decay channel with BR 0.120000: 531 310
+	decay channel with BR 0.120000: 513 130
+	decay channel with BR 0.330000: 211 -211
+	decay channel with BR 0.170000: 111 111
+loaded K+ (PDG 321): stable 1, mass 0.493680, degeneracy 1, statistics -1
+	calculated primary yield: 2479891888.031168 +- 209535259.921955
+loaded K0 (PDG 311): stable 0, mass 0.497670, degeneracy 1, statistics -1
+	calculated primary yield: 2479891423.237767 +- 209535130.542449
+	decay channel with BR 0.500000: 310
+	decay channel with BR 0.500000: 130
+loaded K0L (PDG 130): stable 1, mass 0.497670, degeneracy 0, statistics -1
+	calculated primary yield: 0.000000 +- 0.000000
+loaded K0S (PDG 310): stable 1, mass 0.497670, degeneracy 0, statistics -1
+	calculated primary yield: 0.000000 +- 0.000000
+loaded K_(892)+ (PDG 323): stable 0, mass 0.891660, degeneracy 3, statistics -1
+	calculated primary yield: 7439483307.232612 +- 628553034.735481
+	decay channel with BR 0.333300: 321 111
+	decay channel with BR 0.666700: 311 211
+loaded K_(892)0 (PDG 313): stable 0, mass 0.896100, degeneracy 3, statistics -1
+	calculated primary yield: 7439480563.921616 +- 628552292.869518
+	decay channel with BR 0.333300: 311 111
+	decay channel with BR 0.666700: 321 -211
+loaded K1(1270)+ (PDG 10323): stable 0, mass 1.273000, degeneracy 3, statistics -1
+	calculated primary yield: 7439201245.159830 +- 628478013.599189
+	decay channel with BR 0.140000: 321 113
+	decay channel with BR 0.280000: 311 213
+	decay channel with BR 0.093300: 10321 111
+	decay channel with BR 0.186700: 10311 211
+	decay channel with BR 0.053300: 323 111
+	decay channel with BR 0.106700: 313 211
+	decay channel with BR 0.110000: 321 223
+	decay channel with BR 0.030000: 10221 321
+loaded K1(1270)0 (PDG 10313): stable 0, mass 1.273000, degeneracy 3, statistics -1
+	calculated primary yield: 7439201245.159830 +- 628478013.599189
+	decay channel with BR 0.140000: 311 113
+	decay channel with BR 0.280000: 321 -213
+	decay channel with BR 0.093300: 10311 111
+	decay channel with BR 0.186700: 10321 -211
+	decay channel with BR 0.053300: 313 111
+	decay channel with BR 0.106700: 323 -211
+	decay channel with BR 0.110000: 311 223
+	decay channel with BR 0.030000: 311 10221
+loaded K1(1400)+ (PDG 20323): stable 0, mass 1.402000, degeneracy 3, statistics -1
+	calculated primary yield: 7439085038.243524 +- 628447763.174918
+	decay channel with BR 0.626700: 313 211
+	decay channel with BR 0.313300: 323 111
+	decay channel with BR 0.020000: 311 213
+	decay channel with BR 0.010000: 321 113
+	decay channel with BR 0.020000: 321 10221
+	decay channel with BR 0.010000: 321 223
+loaded K1(1400)0 (PDG 20313): stable 0, mass 1.402000, degeneracy 3, statistics -1
+	calculated primary yield: 7439085038.243524 +- 628447763.174918
+	decay channel with BR 0.313300: 313 111
+	decay channel with BR 0.626700: 323 -211
+	decay channel with BR 0.010000: 311 113
+	decay channel with BR 0.020000: 321 -213
+	decay channel with BR 0.020000: 311 10221
+	decay channel with BR 0.010000: 311 223
+loaded K_(1410)+ (PDG 100323): stable 0, mass 1.414000, degeneracy 3, statistics -1
+	calculated primary yield: 7439073706.735404 +- 628444831.915785
+	decay channel with BR 0.466700: 313 211
+	decay channel with BR 0.233300: 323 111
+	decay channel with BR 0.044000: 311 211
+	decay channel with BR 0.022000: 321 111
+	decay channel with BR 0.023300: 311 213
+	decay channel with BR 0.011700: 321 113
+	decay channel with BR 0.011700:
+loaded K_(1410)0 (PDG 100313): stable 0, mass 1.414000, degeneracy 3, statistics -1
+	calculated primary yield: 7439073706.735404 +- 628444831.915785
+	decay channel with BR 0.233300: 313 111
+	decay channel with BR 0.466700: 323 -211
+	decay channel with BR 0.022000: 311 111
+	decay channel with BR 0.044000: 321 -211
+	decay channel with BR 0.011700: 311 113
+	decay channel with BR 0.023300: 321 -213
+loaded K0_(1430)+ (PDG 10321): stable 0, mass 1.412000, degeneracy 1, statistics -1
+	calculated primary yield: 2479691867.148446 +- 209481773.940236
+	decay channel with BR 0.620000: 311 211
+	decay channel with BR 0.310000: 321 111
+loaded K0_(1430)0 (PDG 10311): stable 0, mass 1.412000, degeneracy 1, statistics -1
+	calculated primary yield: 2479691867.148446 +- 209481773.940236
+	decay channel with BR 0.310000: 311 111
+	decay channel with BR 0.620000: 321 -211
+loaded K2_(1430)+ (PDG 325): stable 0, mass 1.425600, degeneracy 5, statistics -1
+	calculated primary yield: 12398437781.925003 +- 1047403299.597087
+	decay channel with BR 0.332700: 311 211
+	decay channel with BR 0.166300: 321 111
+	decay channel with BR 0.164700: 313 211
+	decay channel with BR 0.082300: 323 111
+	decay channel with BR 0.044700: 313 211 111
+	decay channel with BR 0.044700: 323 211 -211
+	decay channel with BR 0.044700: 323 111 111
+	decay channel with BR 0.058000: 311 213
+	decay channel with BR 0.029000: 321 113
+	decay channel with BR 0.029000: 321 223
+loaded K2_(1430)0 (PDG 315): stable 0, mass 1.432400, degeneracy 5, statistics -1
+	calculated primary yield: 12398426934.346954 +- 1047400498.887769
+	decay channel with BR 0.166300: 311 111
+	decay channel with BR 0.332700: 321 -211
+	decay channel with BR 0.082300: 313 111
+	decay channel with BR 0.164700: 323 -211
+	decay channel with BR 0.044700: 323 -211 111
+	decay channel with BR 0.044700: 313 111 111
+	decay channel with BR 0.044700: 313 211 -211
+	decay channel with BR 0.029000: 311 113
+	decay channel with BR 0.058000: 321 -213
+	decay channel with BR 0.029000: 311 223
+loaded K_(1680)+ (PDG 30323): stable 0, mass 1.717000, degeneracy 3, statistics -1
+	calculated primary yield: 7438758765.754761 +- 628364567.458077
+	decay channel with BR 0.258000: 311 211
+	decay channel with BR 0.129000: 321 111
+	decay channel with BR 0.209000: 311 213
+	decay channel with BR 0.105000: 321 113
+	decay channel with BR 0.199000: 313 211
+	decay channel with BR 0.100000: 323 111
+loaded K_(1680)0 (PDG 30313): stable 0, mass 1.717000, degeneracy 3, statistics -1
+	calculated primary yield: 7438758765.754761 +- 628364567.458077
+	decay channel with BR 0.129000: 311 111
+	decay channel with BR 0.258000: 321 -211
+	decay channel with BR 0.105000: 311 113
+	decay channel with BR 0.209000: 321 -213
+	decay channel with BR 0.100000: 313 111
+	decay channel with BR 0.199000: 323 -211
+loaded K2(1770)+ (PDG 10325): stable 0, mass 1.773000, degeneracy 5, statistics -1
+	calculated primary yield: 12397824320.101498 +- 1047247464.420834
+	decay channel with BR 0.666700: 315 211
+	decay channel with BR 0.333300: 325 111
+loaded K2(1770)0 (PDG 10315): stable 0, mass 1.773000, degeneracy 5, statistics -1
+	calculated primary yield: 12397824320.101498 +- 1047247464.420834
+	decay channel with BR 0.333300: 315 111
+	decay channel with BR 0.666700: 325 -211
+loaded K3_(1780)+ (PDG 327): stable 0, mass 1.776000, degeneracy 7, statistics -1
+	calculated primary yield: 17356945905.901157 +- 1466144414.527512
+	decay channel with BR 0.206700: 311 213
+	decay channel with BR 0.103300: 321 113
+	decay channel with BR 0.133300: 313 211
+	decay channel with BR 0.066700: 323 111
+	decay channel with BR 0.125300: 311 211
+	decay channel with BR 0.062700: 321 111
+	decay channel with BR 0.300000: 321 221
+	decay channel with BR 0.053300: 315 211
+	decay channel with BR 0.026700: 325 111
+loaded K3_(1780)0 (PDG 317): stable 0, mass 1.776000, degeneracy 7, statistics -1
+	calculated primary yield: 17356945905.901157 +- 1466144414.527512
+	decay channel with BR 0.103300: 311 113
+	decay channel with BR 0.206700: 321 -213
+	decay channel with BR 0.066700: 313 111
+	decay channel with BR 0.133300: 323 -211
+	decay channel with BR 0.062700: 311 111
+	decay channel with BR 0.125300: 321 -211
+	decay channel with BR 0.300000: 311 221
+	decay channel with BR 0.026700: 315 111
+	decay channel with BR 0.053300: 325 -211
+loaded K2(1820)+ (PDG 20325): stable 0, mass 1.816000, degeneracy 5, statistics -1
+	calculated primary yield: 12397740126.274145 +- 1047226454.866503
+	decay channel with BR 0.166700: 315 211
+	decay channel with BR 0.083300: 325 111
+	decay channel with BR 0.166700: 313 211
+	decay channel with BR 0.083300: 323 111
+	decay channel with BR 0.250000: 321 225
+	decay channel with BR 0.250000: 321 223
+loaded K2(1820)0 (PDG 20315): stable 0, mass 1.816000, degeneracy 5, statistics -1
+	calculated primary yield: 12397740126.274145 +- 1047226454.866503
+	decay channel with BR 0.083300: 315 111
+	decay channel with BR 0.166700: 325 -211
+	decay channel with BR 0.083300: 313 111
+	decay channel with BR 0.166700: 323 -211
+	decay channel with BR 0.250000: 311 225
+	decay channel with BR 0.250000: 311 223
+loaded K4_(2045)+ (PDG 329): stable 0, mass 2.045000, degeneracy 9, statistics -1
+	calculated primary yield: 22315071520.002316 +- 1884795635.278319
+	decay channel with BR 0.066000: 211 311
+	decay channel with BR 0.033000: 111 321
+	decay channel with BR 0.030000: 323 211 -211
+	decay channel with BR 0.030000: 323 111 111
+	decay channel with BR 0.030000: 313 211 111
+	decay channel with BR 0.017500: 323 211 -211 111
+	decay channel with BR 0.017500: 323 111 111 111
+	decay channel with BR 0.017500: 313 211 111 111
+	decay channel with BR 0.017500: 313 211 211 -211
+	decay channel with BR 0.011400: 213 311 111
+	decay channel with BR 0.011400: 213 321 -211
+	decay channel with BR 0.011400: 113 321 111
+	decay channel with BR 0.011400: 113 311 211
+	decay channel with BR 0.011400: -213 321 211
+	decay channel with BR 0.033333: 223 211 311
+	decay channel with BR 0.016667: 223 111 321
+	decay channel with BR 0.018667: 333 311 211
+	decay channel with BR 0.009333: 333 321 111
+	decay channel with BR 0.014000: 333 323
+loaded K4_(2045)0 (PDG 319): stable 0, mass 2.045000, degeneracy 9, statistics -1
+	calculated primary yield: 22315071520.002316 +- 1884795635.278319
+	decay channel with BR 0.033000: 311 111
+	decay channel with BR 0.066000: 321 -211
+	decay channel with BR 0.030000: 323 -211 111
+	decay channel with BR 0.030000: 313 111 111
+	decay channel with BR 0.030000: 313 211 -211
+	decay channel with BR 0.017500: 323 -211 111 111
+	decay channel with BR 0.017500: 323 -211 211 -211
+	decay channel with BR 0.017500: 313 111 111 111
+	decay channel with BR 0.017500: 313 211 -211 111
+	decay channel with BR 0.019000: 213 311 -211
+	decay channel with BR 0.019000: 113 311 111
+	decay channel with BR 0.019000: 113 321 -211
+	decay channel with BR 0.016667: 223 311 111
+	decay channel with BR 0.033333: 223 321 -211
+	decay channel with BR 0.009333: 333 311 111
+	decay channel with BR 0.018667: 333 321 -211
+	decay channel with BR 0.014000: 333 313
+loaded p (PDG 2212): stable 1, mass 0.938270, degeneracy 2, statistics 1
+	calculated primary yield: 3712462050.318258 +- 299769639.675945
+loaded n (PDG 2112): stable 1, mass 0.939560, degeneracy 2, statistics 1
+	calculated primary yield: 3712461980.422011 +- 299769634.531059
+loaded N(1440)+ (PDG 12212): stable 0, mass 1.440000, degeneracy 2, statistics 1
+	calculated primary yield: 3712427590.279203 +- 299767082.516596
+	decay channel with BR 0.433300: 2112 211
+	decay channel with BR 0.216700: 2212 111
+	decay channel with BR 0.125000: 2224 -211
+	decay channel with BR 0.083300: 2214 111
+	decay channel with BR 0.041700: 2114 211
+	decay channel with BR 0.026700: 2112 213
+	decay channel with BR 0.013300: 2212 113
+	decay channel with BR 0.025000: 2212 111 111
+	decay channel with BR 0.025000: 2212 211 -211
+	decay channel with BR 0.025000: 2112 211 111
+loaded N(1440)0 (PDG 12112): stable 0, mass 1.440000, degeneracy 2, statistics 1
+	calculated primary yield: 3712427590.279203 +- 299767082.516596
+	decay channel with BR 0.216700: 2112 111
+	decay channel with BR 0.433300: 2212 -211
+	decay channel with BR 0.041700: 2214 -211
+	decay channel with BR 0.083300: 2114 111
+	decay channel with BR 0.125000: 1114 211
+	decay channel with BR 0.013300: 2112 113
+	decay channel with BR 0.026700: 2212 -213
+	decay channel with BR 0.025000: 2212 111 -211
+	decay channel with BR 0.025000: 2112 111 111
+	decay channel with BR 0.025000: 2112 211 -211
+loaded N(1520)+ (PDG 2124): stable 0, mass 1.520000, degeneracy 4, statistics 1
+	calculated primary yield: 7424841491.708449 +- 599533141.121934
+	decay channel with BR 0.366700: 2112 211
+	decay channel with BR 0.183300: 2212 111
+	decay channel with BR 0.100000: 2224 -211
+	decay channel with BR 0.066700: 2214 111
+	decay channel with BR 0.033300: 2114 211
+	decay channel with BR 0.133300: 2112 213
+	decay channel with BR 0.066700: 2212 113
+	decay channel with BR 0.013300: 2212 111 111
+	decay channel with BR 0.013300: 2212 211 -211
+	decay channel with BR 0.013300: 2112 211 111
+loaded N(1520)0 (PDG 1214): stable 0, mass 1.520000, degeneracy 4, statistics 1
+	calculated primary yield: 7424841491.708449 +- 599533141.121934
+	decay channel with BR 0.183300: 2112 111
+	decay channel with BR 0.366700: 2212 -211
+	decay channel with BR 0.033300: 2214 -211
+	decay channel with BR 0.066700: 2114 111
+	decay channel with BR 0.100000: 1114 211
+	decay channel with BR 0.066700: 2112 113
+	decay channel with BR 0.133300: 2212 -213
+	decay channel with BR 0.013300: 2212 111 -211
+	decay channel with BR 0.013300: 2112 111 111
+	decay channel with BR 0.013300: 2112 211 -211
+loaded N(1535)+ (PDG 22212): stable 0, mass 1.535000, degeneracy 2, statistics 1
+	calculated primary yield: 3712419421.150911 +- 299766471.344971
+	decay channel with BR 0.300000: 2112 211
+	decay channel with BR 0.150000: 2212 111
+	decay channel with BR 0.425000: 2212 221
+	decay channel with BR 0.002500: 2224 -211
+	decay channel with BR 0.001700: 2214 111
+	decay channel with BR 0.000800: 2114 211
+	decay channel with BR 0.013300: 2112 213
+	decay channel with BR 0.006700: 2212 113
+	decay channel with BR 0.005000: 2212 211 -211
+	decay channel with BR 0.005000: 2212 111 111
+	decay channel with BR 0.005000: 2112 211 111
+	decay channel with BR 0.023300: 12112 211
+	decay channel with BR 0.011700: 12212 111
+loaded N(1535)0 (PDG 22112): stable 0, mass 1.535000, degeneracy 2, statistics 1
+	calculated primary yield: 3712419421.150911 +- 299766471.344971
+	decay channel with BR 0.150000: 2112 111
+	decay channel with BR 0.300000: 2212 -211
+	decay channel with BR 0.425000: 2112 221
+	decay channel with BR 0.000800: 2214 -211
+	decay channel with BR 0.001700: 2114 111
+	decay channel with BR 0.002500: 1114 211
+	decay channel with BR 0.006700: 2112 113
+	decay channel with BR 0.013300: 2212 -213
+	decay channel with BR 0.005000: 2212 -211 111
+	decay channel with BR 0.005000: 2112 111 111
+	decay channel with BR 0.005000: 2112 211 -211
+	decay channel with BR 0.011700: 12112 111
+	decay channel with BR 0.023300: 12212 -211
+loaded N(1650)+ (PDG 32212): stable 0, mass 1.650000, degeneracy 2, statistics 1
+	calculated primary yield: 3712408830.896095 +- 299765676.753325
+	decay channel with BR 0.483300: 2112 211
+	decay channel with BR 0.241700: 2212 111
+	decay channel with BR 0.065000: 2212 221
+	decay channel with BR 0.070000: 3122 321
+	decay channel with BR 0.020000: 2224 -211
+	decay channel with BR 0.013300: 2214 111
+	decay channel with BR 0.006700: 2114 211
+	decay channel with BR 0.053300: 2112 213
+	decay channel with BR 0.026700: 2212 113
+	decay channel with BR 0.006700: 2212 211 -211
+	decay channel with BR 0.006700: 2212 111 111
+	decay channel with BR 0.006700: 2112 211 111
+	decay channel with BR 0.016700: 12112 211
+	decay channel with BR 0.008300: 12212 111
+loaded N(1650)0 (PDG 32112): stable 0, mass 1.650000, degeneracy 2, statistics 1
+	calculated primary yield: 3712408830.896095 +- 299765676.753325
+	decay channel with BR 0.241700: 2112 111
+	decay channel with BR 0.483300: 2212 -211
+	decay channel with BR 0.065000: 2112 221
+	decay channel with BR 0.070000: 3122 311
+	decay channel with BR 0.006700: 2214 -211
+	decay channel with BR 0.013300: 2114 111
+	decay channel with BR 0.020000: 1114 211
+	decay channel with BR 0.026700: 2112 113
+	decay channel with BR 0.053300: 2212 -213
+	decay channel with BR 0.006700: 2212 -211 111
+	decay channel with BR 0.006700: 2112 211 -211
+	decay channel with BR 0.006700: 2112 111 111
+	decay channel with BR 0.008300: 12112 111
+	decay channel with BR 0.016700: 12212 -211
+loaded N(1675)+ (PDG 2216): stable 0, mass 1.675000, degeneracy 6, statistics 1
+	calculated primary yield: 11137219280.979404 +- 899296488.159614
+	decay channel with BR 0.300000: 2112 211
+	decay channel with BR 0.150000: 2212 111
+	decay channel with BR 0.005000: 3122 321
+	decay channel with BR 0.275000: 2224 -211
+	decay channel with BR 0.183300: 2214 111
+	decay channel with BR 0.091700: 2114 211
+	decay channel with BR 0.013300: 2112 213
+	decay channel with BR 0.006700: 2212 113
+loaded N(1675)0 (PDG 2116): stable 0, mass 1.675000, degeneracy 6, statistics 1
+	calculated primary yield: 11137219280.979404 +- 899296488.159614
+	decay channel with BR 0.150000: 2112 111
+	decay channel with BR 0.300000: 2212 -211
+	decay channel with BR 0.005000: 3122 311
+	decay channel with BR 0.091700: 2214 -211
+	decay channel with BR 0.183300: 2114 111
+	decay channel with BR 0.275000: 1114 211
+	decay channel with BR 0.006700: 2112 113
+	decay channel with BR 0.013300: 2212 -213
+loaded N(1680)+ (PDG 12216): stable 0, mass 1.680000, degeneracy 6, statistics 1
+	calculated primary yield: 11137217825.562693 +- 899296378.713649
+	decay channel with BR 0.433300: 2112 211
+	decay channel with BR 0.216700: 2212 111
+	decay channel with BR 0.050000: 2224 -211
+	decay channel with BR 0.033300: 2214 111
+	decay channel with BR 0.016700: 2114 211
+	decay channel with BR 0.060000: 2112 213
+	decay channel with BR 0.030000: 2212 113
+	decay channel with BR 0.041700: 2212 111 111
+	decay channel with BR 0.041700: 2212 211 -211
+	decay channel with BR 0.041700: 2112 211 111
+loaded N(1680)0 (PDG 12116): stable 0, mass 1.680000, degeneracy 6, statistics 1
+	calculated primary yield: 11137217825.562693 +- 899296378.713649
+	decay channel with BR 0.216700: 2112 111
+	decay channel with BR 0.433300: 2212 -211
+	decay channel with BR 0.016700: 2214 -211
+	decay channel with BR 0.033300: 2114 111
+	decay channel with BR 0.050000: 1114 211
+	decay channel with BR 0.030000: 2112 113
+	decay channel with BR 0.060000: 2212 -213
+	decay channel with BR 0.041700: 2212 111 -211
+	decay channel with BR 0.041700: 2112 111 111
+	decay channel with BR 0.041700: 2112 211 -211
+loaded N(1700)+ (PDG 22124): stable 0, mass 1.700000, degeneracy 4, statistics 1
+	calculated primary yield: 7424807973.539904 +- 599530625.005208
+	decay channel with BR 0.066700: 2112 211
+	decay channel with BR 0.033300: 2212 111
+	decay channel with BR 0.015000: 3122 321
+	decay channel with BR 0.300000: 2212 111 111
+	decay channel with BR 0.300000: 2212 211 -211
+	decay channel with BR 0.300000: 2112 211 111
+loaded N(1700)0 (PDG 21214): stable 0, mass 1.700000, degeneracy 4, statistics 1
+	calculated primary yield: 7424807973.539904 +- 599530625.005208
+	decay channel with BR 0.033300: 2112 111
+	decay channel with BR 0.066700: 2212 -211
+	decay channel with BR 0.015000: 3122 311
+	decay channel with BR 0.300000: 2212 111 -211
+	decay channel with BR 0.300000: 2112 111 111
+	decay channel with BR 0.300000: 2112 211 -211
+loaded N(1710)+ (PDG 42212): stable 0, mass 1.710000, degeneracy 2, statistics 1
+	calculated primary yield: 3712403000.510213 +- 299765238.283578
+	decay channel with BR 0.100000: 2112 211
+	decay channel with BR 0.050000: 2212 111
+	decay channel with BR 0.060000: 2212 221
+	decay channel with BR 0.150000: 3122 321
+	decay channel with BR 0.137500: 2224 -211
+	decay channel with BR 0.091700: 2214 111
+	decay channel with BR 0.045800: 2114 211
+	decay channel with BR 0.100000: 2112 213
+	decay channel with BR 0.050000: 2212 113
+	decay channel with BR 0.083300: 2212 111 111
+	decay channel with BR 0.083300: 2212 211 -211
+	decay channel with BR 0.083300: 2112 211 111
+loaded N(1710)0 (PDG 42112): stable 0, mass 1.710000, degeneracy 2, statistics 1
+	calculated primary yield: 3712403000.510213 +- 299765238.283578
+	decay channel with BR 0.050000: 2112 111
+	decay channel with BR 0.100000: 2212 -211
+	decay channel with BR 0.060000: 2112 221
+	decay channel with BR 0.150000: 3122 311
+	decay channel with BR 0.045800: 2214 -211
+	decay channel with BR 0.091700: 2114 111
+	decay channel with BR 0.137500: 1114 211
+	decay channel with BR 0.050000: 2112 113
+	decay channel with BR 0.100000: 2212 -213
+	decay channel with BR 0.083300: 2212 111 -211
+	decay channel with BR 0.083300: 2112 111 111
+	decay channel with BR 0.083300: 2112 211 -211
+loaded N(1720)+ (PDG 32124): stable 0, mass 1.720000, degeneracy 4, statistics 1
+	calculated primary yield: 7424804016.876885 +- 599530327.215654
+	decay channel with BR 0.100000: 2112 211
+	decay channel with BR 0.050000: 2212 111
+	decay channel with BR 0.040000: 2212 221
+	decay channel with BR 0.080000: 3122 321
+	decay channel with BR 0.516700: 2112 213
+	decay channel with BR 0.258300: 2212 113
+loaded N(1720)0 (PDG 31214): stable 0, mass 1.720000, degeneracy 4, statistics 1
+	calculated primary yield: 7424804016.876885 +- 599530327.215654
+	decay channel with BR 0.050000: 2112 111
+	decay channel with BR 0.100000: 2212 -211
+	decay channel with BR 0.040000: 2112 221
+	decay channel with BR 0.080000: 3122 311
+	decay channel with BR 0.258300: 2112 113
+	decay channel with BR 0.516700: 2212 -213
+loaded N(2190)+ (PDG 2128): stable 0, mass 2.190000, degeneracy 8, statistics 1
+	calculated primary yield: 14849395285.566580 +- 1199044542.414061
+	decay channel with BR 0.100000: 2112 211
+	decay channel with BR 0.050000: 2212 111
+loaded N(2190)0 (PDG 1218): stable 0, mass 2.190000, degeneracy 8, statistics 1
+	calculated primary yield: 14849395285.566580 +- 1199044542.414061
+	decay channel with BR 0.050000: 2112 111
+	decay channel with BR 0.100000: 2212 -211
+loaded N(2220)+ (PDG 91): stable 0, mass 2.220000, degeneracy 10, statistics 1
+	calculated primary yield: 18561724950.502476 +- 1498804219.247931
+	decay channel with BR 0.100000: 2112 211
+	decay channel with BR 0.050000: 2212 111
+loaded N(2220)0 (PDG 92): stable 0, mass 2.220000, degeneracy 10, statistics 1
+	calculated primary yield: 18561724950.502476 +- 1498804219.247931
+	decay channel with BR 0.050000: 2112 111
+	decay channel with BR 0.100000: 2212 -211
+loaded N(2250)+ (PDG 93): stable 0, mass 2.250000, degeneracy 10, statistics 1
+	calculated primary yield: 18561705532.102020 +- 1498802739.585420
+	decay channel with BR 0.066700: 2112 211
+	decay channel with BR 0.033300: 2212 111
+loaded N(2250)0 (PDG 94): stable 0, mass 2.250000, degeneracy 10, statistics 1
+	calculated primary yield: 18561705532.102020 +- 1498802739.585420
+	decay channel with BR 0.033300: 2112 111
+	decay channel with BR 0.066700: 2212 -211
+loaded N(2600)+ (PDG 95): stable 0, mass 2.600000, degeneracy 12, statistics 1
+	calculated primary yield: 22273751548.887127 +- 1798540713.969145
+	decay channel with BR 0.050000: 2112 211
+	decay channel with BR 0.025000: 2212 111
+loaded N(2600)0 (PDG 96): stable 0, mass 2.600000, degeneracy 12, statistics 1
+	calculated primary yield: 22273751548.887127 +- 1798540713.969145
+	decay channel with BR 0.025000: 2112 111
+	decay channel with BR 0.050000: 2212 -211
+loaded Delta(1232)++ (PDG 2224): stable 0, mass 1.232000, degeneracy 4, statistics 1
+	calculated primary yield: 7424887294.750452 +- 599536557.464230
+	decay channel with BR 1.000000: 2212 211
+loaded Delta(1232)+ (PDG 2214): stable 0, mass 1.232000, degeneracy 4, statistics 1
+	calculated primary yield: 7424887294.750452 +- 599536557.464230
+	decay channel with BR 0.333300: 2112 211
+	decay channel with BR 0.666700: 2212 111
+loaded Delta(1232)0 (PDG 2114): stable 0, mass 1.232000, degeneracy 4, statistics 1
+	calculated primary yield: 7424887294.750452 +- 599536557.464230
+	decay channel with BR 0.666700: 2112 111
+	decay channel with BR 0.333300: 2212 -211
+loaded Delta(1232)- (PDG 1114): stable 0, mass 1.232000, degeneracy 4, statistics 1
+	calculated primary yield: 7424887294.750452 +- 599536557.464230
+	decay channel with BR 1.000000: 2112 -211
+loaded Delta(1600)++ (PDG 32224): stable 0, mass 1.600000, degeneracy 4, statistics 1
+	calculated primary yield: 7424827059.512136 +- 599532059.228038
+	decay channel with BR 0.175000: 2212 211
+	decay channel with BR 0.330000: 2224 111
+	decay channel with BR 0.220000: 2214 211
+	decay channel with BR 0.125000: 2212 213
+	decay channel with BR 0.225000: 12212 211
+loaded Delta(1600)+ (PDG 32214): stable 0, mass 1.600000, degeneracy 4, statistics 1
+	calculated primary yield: 7424827059.512136 +- 599532059.228038
+	decay channel with BR 0.058300: 2112 211
+	decay channel with BR 0.116700: 2212 111
+	decay channel with BR 0.220000: 2224 -211
+	decay channel with BR 0.036700: 2214 111
+	decay channel with BR 0.293300: 2114 211
+	decay channel with BR 0.041700: 2112 213
+	decay channel with BR 0.083300: 2212 113
+	decay channel with BR 0.075000: 12112 211
+	decay channel with BR 0.150000: 12212 111
+loaded Delta(1600)0 (PDG 32114): stable 0, mass 1.600000, degeneracy 4, statistics 1
+	calculated primary yield: 7424827059.512136 +- 599532059.228038
+	decay channel with BR 0.116700: 2112 111
+	decay channel with BR 0.058300: 2212 -211
+	decay channel with BR 0.293300: 2214 -211
+	decay channel with BR 0.036700: 2114 111
+	decay channel with BR 0.220000: 1114 211
+	decay channel with BR 0.083300: 2112 113
+	decay channel with BR 0.041700: 2212 -213
+	decay channel with BR 0.150000: 12112 111
+	decay channel with BR 0.075000: 12212 -211
+loaded Delta(1600)- (PDG 31114): stable 0, mass 1.600000, degeneracy 4, statistics 1
+	calculated primary yield: 7424827059.512136 +- 599532059.228038
+	decay channel with BR 0.175000: 2112 -211
+	decay channel with BR 0.220000: 2114 -211
+	decay channel with BR 0.330000: 1114 111
+	decay channel with BR 0.125000: 2112 -213
+	decay channel with BR 0.225000: 12112 -211
+loaded Delta(1620)++ (PDG 2222): stable 0, mass 1.620000, degeneracy 2, statistics 1
+	calculated primary yield: 3712411667.642113 +- 299765889.835007
+	decay channel with BR 0.250000: 2212 211
+	decay channel with BR 0.270000: 2224 111
+	decay channel with BR 0.180000: 2214 211
+	decay channel with BR 0.160000: 2212 213
+loaded Delta(1620)+ (PDG 2122): stable 0, mass 1.620000, degeneracy 2, statistics 1
+	calculated primary yield: 3712411667.642113 +- 299765889.835007
+	decay channel with BR 0.083300: 2112 211
+	decay channel with BR 0.166700: 2212 111
+	decay channel with BR 0.180000: 2224 -211
+	decay channel with BR 0.030000: 2214 111
+	decay channel with BR 0.240000: 2114 211
+	decay channel with BR 0.053300: 2112 213
+	decay channel with BR 0.106700: 2212 113
+loaded Delta(1620)0 (PDG 1212): stable 0, mass 1.620000, degeneracy 2, statistics 1
+	calculated primary yield: 3712411667.642113 +- 299765889.835007
+	decay channel with BR 0.166700: 2112 111
+	decay channel with BR 0.083300: 2212 -211
+	decay channel with BR 0.240000: 2214 -211
+	decay channel with BR 0.030000: 2114 111
+	decay channel with BR 0.180000: 1114 211
+	decay channel with BR 0.106700: 2112 113
+	decay channel with BR 0.053300: 2212 -213
+loaded Delta(1620)- (PDG 1112): stable 0, mass 1.620000, degeneracy 2, statistics 1
+	calculated primary yield: 3712411667.642113 +- 299765889.835007
+	decay channel with BR 0.250000: 2112 -211
+	decay channel with BR 0.180000: 2114 -211
+	decay channel with BR 0.270000: 1114 111
+	decay channel with BR 0.160000: 2112 -213
+loaded Delta(1700)++ (PDG 12224): stable 0, mass 1.700000, degeneracy 4, statistics 1
+	calculated primary yield: 7424807973.539904 +- 599530625.005208
+	decay channel with BR 0.150000: 2212 211
+	decay channel with BR 0.270000: 2224 111
+	decay channel with BR 0.180000: 2214 211
+	decay channel with BR 0.425000: 2212 213
+loaded Delta(1700)+ (PDG 12214): stable 0, mass 1.700000, degeneracy 4, statistics 1
+	calculated primary yield: 7424807973.539904 +- 599530625.005208
+	decay channel with BR 0.050000: 2112 211
+	decay channel with BR 0.100000: 2212 111
+	decay channel with BR 0.180000: 2224 -211
+	decay channel with BR 0.030000: 2214 111
+	decay channel with BR 0.240000: 2114 211
+	decay channel with BR 0.141700: 2112 213
+	decay channel with BR 0.283300: 2212 113
+loaded Delta(1700)0 (PDG 12114): stable 0, mass 1.700000, degeneracy 4, statistics 1
+	calculated primary yield: 7424807973.539904 +- 599530625.005208
+	decay channel with BR 0.100000: 2112 111
+	decay channel with BR 0.050000: 2212 -211
+	decay channel with BR 0.240000: 2214 -211
+	decay channel with BR 0.030000: 2114 111
+	decay channel with BR 0.180000: 1114 211
+	decay channel with BR 0.283300: 2112 113
+	decay channel with BR 0.141700: 2212 -213
+loaded Delta(1700)- (PDG 11114): stable 0, mass 1.700000, degeneracy 4, statistics 1
+	calculated primary yield: 7424807973.539904 +- 599530625.005208
+	decay channel with BR 0.150000: 2112 -211
+	decay channel with BR 0.180000: 2114 -211
+	decay channel with BR 0.270000: 1114 111
+	decay channel with BR 0.425000: 2112 -213
+loaded Delta(1905)++ (PDG 2226): stable 0, mass 1.905000, degeneracy 6, statistics 1
+	calculated primary yield: 11137147819.502201 +- 899291098.524303
+	decay channel with BR 0.100000: 2212 211
+	decay channel with BR 0.075000: 2224 111
+	decay channel with BR 0.050000: 2214 211
+	decay channel with BR 0.800000: 2212 213
+loaded Delta(1905)+ (PDG 2126): stable 0, mass 1.905000, degeneracy 6, statistics 1
+	calculated primary yield: 11137147819.502201 +- 899291098.524303
+	decay channel with BR 0.033300: 2112 211
+	decay channel with BR 0.066700: 2212 111
+	decay channel with BR 0.050000: 2224 -211
+	decay channel with BR 0.008300: 2214 111
+	decay channel with BR 0.066700: 2114 211
+	decay channel with BR 0.266700: 2112 213
+	decay channel with BR 0.533300: 2212 113
+loaded Delta(1905)0 (PDG 1216): stable 0, mass 1.905000, degeneracy 6, statistics 1
+	calculated primary yield: 11137147819.502201 +- 899291098.524303
+	decay channel with BR 0.066700: 2112 111
+	decay channel with BR 0.033300: 2212 -211
+	decay channel with BR 0.066700: 2214 -211
+	decay channel with BR 0.008300: 2114 111
+	decay channel with BR 0.050000: 1114 211
+	decay channel with BR 0.533300: 2112 113
+	decay channel with BR 0.266700: 2212 -213
+loaded Delta(1905)- (PDG 1116): stable 0, mass 1.905000, degeneracy 6, statistics 1
+	calculated primary yield: 11137147819.502201 +- 899291098.524303
+	decay channel with BR 0.100000: 2112 -211
+	decay channel with BR 0.050000: 2114 -211
+	decay channel with BR 0.075000: 1114 111
+	decay channel with BR 0.800000: 2112 -213
+loaded Delta(1910)++ (PDG 22222): stable 0, mass 1.910000, degeneracy 2, statistics 1
+	calculated primary yield: 3712382054.503445 +- 299763657.757358
+	decay channel with BR 0.225000: 2212 211
+loaded Delta(1910)+ (PDG 22122): stable 0, mass 1.910000, degeneracy 2, statistics 1
+	calculated primary yield: 3712382054.503445 +- 299763657.757358
+	decay channel with BR 0.075000: 2112 211
+	decay channel with BR 0.150000: 2212 111
+loaded Delta(1910)0 (PDG 21212): stable 0, mass 1.910000, degeneracy 2, statistics 1
+	calculated primary yield: 3712382054.503445 +- 299763657.757358
+	decay channel with BR 0.150000: 2112 111
+	decay channel with BR 0.075000: 2212 -211
+loaded Delta(1910)- (PDG 21112): stable 0, mass 1.910000, degeneracy 2, statistics 1
+	calculated primary yield: 3712382054.503445 +- 299763657.757358
+	decay channel with BR 0.225000: 2112 -211
+loaded Delta(1920)++ (PDG 22224): stable 0, mass 1.920000, degeneracy 4, statistics 1
+	calculated primary yield: 7424761892.293515 +- 599527147.821561
+	decay channel with BR 0.125000: 2212 211
+loaded Delta(1920)+ (PDG 22214): stable 0, mass 1.920000, degeneracy 4, statistics 1
+	calculated primary yield: 7424761892.293515 +- 599527147.821561
+	decay channel with BR 0.041700: 2112 211
+	decay channel with BR 0.083300: 2212 111
+loaded Delta(1920)0 (PDG 22114): stable 0, mass 1.920000, degeneracy 4, statistics 1
+	calculated primary yield: 7424761892.293515 +- 599527147.821561
+	decay channel with BR 0.083300: 2112 111
+	decay channel with BR 0.041700: 2212 -211
+loaded Delta(1920)- (PDG 21114): stable 0, mass 1.920000, degeneracy 4, statistics 1
+	calculated primary yield: 7424761892.293515 +- 599527147.821561
+	decay channel with BR 0.125000: 2112 -211
+loaded Delta(1930)++ (PDG 12226): stable 0, mass 1.930000, degeneracy 6, statistics 1
+	calculated primary yield: 11137139495.921295 +- 899290468.811855
+	decay channel with BR 0.150000: 2212 211
+loaded Delta(1930)+ (PDG 12126): stable 0, mass 1.930000, degeneracy 6, statistics 1
+	calculated primary yield: 11137139495.921295 +- 899290468.811855
+	decay channel with BR 0.050000: 2112 211
+	decay channel with BR 0.100000: 2212 111
+loaded Delta(1930)0 (PDG 11216): stable 0, mass 1.930000, degeneracy 6, statistics 1
+	calculated primary yield: 11137139495.921295 +- 899290468.811855
+	decay channel with BR 0.100000: 2112 111
+	decay channel with BR 0.050000: 2212 -211
+loaded Delta(1930)- (PDG 11116): stable 0, mass 1.930000, degeneracy 6, statistics 1
+	calculated primary yield: 11137139495.921295 +- 899290468.811855
+	decay channel with BR 0.150000: 2112 -211
+loaded Delta(1950)++ (PDG 2228): stable 0, mass 1.950000, degeneracy 8, statistics 1
+	calculated primary yield: 14849510344.712452 +- 1199053278.435712
+	decay channel with BR 0.375000: 2212 211
+	decay channel with BR 0.150000: 2224 111
+	decay channel with BR 0.100000: 2214 211
+	decay channel with BR 0.050000: 2212 213
+loaded Delta(1950)+ (PDG 2218): stable 0, mass 1.950000, degeneracy 8, statistics 1
+	calculated primary yield: 14849510344.712452 +- 1199053278.435712
+	decay channel with BR 0.125000: 2112 211
+	decay channel with BR 0.250000: 2212 111
+	decay channel with BR 0.100000: 2224 -211
+	decay channel with BR 0.016700: 2214 111
+	decay channel with BR 0.133300: 2114 211
+	decay channel with BR 0.016700: 2112 213
+	decay channel with BR 0.033300: 2212 113
+loaded Delta(1950)0 (PDG 2118): stable 0, mass 1.950000, degeneracy 8, statistics 1
+	calculated primary yield: 14849510344.712452 +- 1199053278.435712
+	decay channel with BR 0.250000: 2112 111
+	decay channel with BR 0.125000: 2212 -211
+	decay channel with BR 0.133300: 2214 -211
+	decay channel with BR 0.016700: 2114 111
+	decay channel with BR 0.100000: 1114 211
+	decay channel with BR 0.033300: 2112 113
+	decay channel with BR 0.016700: 2212 -213
+loaded Delta(1950)- (PDG 1118): stable 0, mass 1.950000, degeneracy 8, statistics 1
+	calculated primary yield: 14849510344.712452 +- 1199053278.435712
+	decay channel with BR 0.375000: 2112 -211
+	decay channel with BR 0.100000: 2114 -211
+	decay channel with BR 0.150000: 1114 111
+	decay channel with BR 0.050000: 2112 -213
+loaded Delta(2420)++ (PDG 97): stable 0, mass 2.420000, degeneracy 12, statistics 1
+	calculated primary yield: 22273908655.033081 +- 1798552751.361707
+	decay channel with BR 0.100000: 2212 211
+loaded Delta(2420)+ (PDG 98): stable 0, mass 2.420000, degeneracy 12, statistics 1
+	calculated primary yield: 22273908655.033081 +- 1798552751.361707
+	decay channel with BR 0.033300: 2112 211
+	decay channel with BR 0.066700: 2212 111
+loaded Delta(2420)0 (PDG 99): stable 0, mass 2.420000, degeneracy 12, statistics 1
+	calculated primary yield: 22273908655.033081 +- 1798552751.361707
+	decay channel with BR 0.066700: 2112 111
+	decay channel with BR 0.033300: 2212 -211
+loaded Delta(2420)- (PDG 910): stable 0, mass 2.420000, degeneracy 12, statistics 1
+	calculated primary yield: 22273908655.033081 +- 1798552751.361707
+	decay channel with BR 0.100000: 2112 -211
+loaded Lambda (PDG 3122): stable 1, mass 1.115680, degeneracy 2, statistics 1
+	calculated primary yield: 3712451532.994123 +- 299768863.363314
+loaded Lambda(1405) (PDG 13122): stable 0, mass 1.406000, degeneracy 2, statistics 1
+	calculated primary yield: 3712430386.646253 +- 299767291.345645
+	decay channel with BR 0.333300: 3222 -211
+	decay channel with BR 0.333300: 3212 111
+	decay channel with BR 0.333300: 3112 211
+loaded Lambda(1520) (PDG 3124): stable 0, mass 1.519500, degeneracy 4, statistics 1
+	calculated primary yield: 7424841579.571921 +- 599533147.701219
+	decay channel with BR 0.225000: 2212 -321
+	decay channel with BR 0.225000: 2112 -311
+	decay channel with BR 0.140000: 3222 -211
+	decay channel with BR 0.140000: 3212 111
+	decay channel with BR 0.140000: 3112 211
+	decay channel with BR 0.050000: 3122 211 -211
+	decay channel with BR 0.050000: 3122 111 111
+	decay channel with BR 0.002250: 3222 -211 111
+	decay channel with BR 0.002250: 3212 211 -211
+	decay channel with BR 0.002250: 3212 111 111
+	decay channel with BR 0.002250: 3112 211 111
+	decay channel with BR 0.008000: 3122
+loaded Lambda(1600) (PDG 23122): stable 0, mass 1.600000, degeneracy 2, statistics 1
+	calculated primary yield: 3712413529.756068 +- 299766029.614019
+	decay channel with BR 0.112500: 2212 -321
+	decay channel with BR 0.112500: 2112 -311
+	decay channel with BR 0.116700: 3222 -211
+	decay channel with BR 0.116700: 3212 111
+	decay channel with BR 0.116700: 3112 211
+loaded Lambda(1670) (PDG 33122): stable 0, mass 1.670000, degeneracy 2, statistics 1
+	calculated primary yield: 3712406910.679225 +- 299765532.421173
+	decay channel with BR 0.125000: 2212 -321
+	decay channel with BR 0.125000: 2112 -311
+	decay channel with BR 0.133300: 3222 -211
+	decay channel with BR 0.133300: 3212 111
+	decay channel with BR 0.133300: 3112 211
+	decay channel with BR 0.175000: 3122 221
+loaded Lambda(1690) (PDG 13124): stable 0, mass 1.690000, degeneracy 4, statistics 1
+	calculated primary yield: 7424809934.435760 +- 599530772.530178
+	decay channel with BR 0.125000: 2212 -321
+	decay channel with BR 0.125000: 2112 -311
+	decay channel with BR 0.100000: 3222 -211
+	decay channel with BR 0.100000: 3212 111
+	decay channel with BR 0.100000: 3112 211
+	decay channel with BR 0.125000: 3122 111 111
+	decay channel with BR 0.125000: 3122 211 -211
+	decay channel with BR 0.050000: 3222 -211 111
+	decay channel with BR 0.050000: 3212 211 -211
+	decay channel with BR 0.050000: 3212 111 111
+	decay channel with BR 0.050000: 3112 211 111
+loaded Lambda(1800) (PDG 43122): stable 0, mass 1.800000, degeneracy 2, statistics 1
+	calculated primary yield: 3712393862.604722 +- 299764549.738195
+	decay channel with BR 0.162500: 2212 -321
+	decay channel with BR 0.162500: 2112 -311
+loaded Lambda(1810) (PDG 53122): stable 0, mass 1.810000, degeneracy 2, statistics 1
+	calculated primary yield: 3712392818.214845 +- 299764470.943905
+	decay channel with BR 0.175000: 2212 -321
+	decay channel with BR 0.175000: 2112 -311
+	decay channel with BR 0.083300: 3222 -211
+	decay channel with BR 0.083300: 3212 111
+	decay channel with BR 0.083300: 3112 211
+	decay channel with BR 0.225000: 2212 -323
+	decay channel with BR 0.225000: 2112 -313
+loaded Lambda(1820) (PDG 3126): stable 0, mass 1.820000, degeneracy 6, statistics 1
+	calculated primary yield: 11137175304.032391 +- 899293175.073406
+	decay channel with BR 0.300000: 2212 -321
+	decay channel with BR 0.300000: 2112 -311
+	decay channel with BR 0.036700: 3222 -211
+	decay channel with BR 0.036700: 3212 111
+	decay channel with BR 0.036700: 3112 211
+	decay channel with BR 0.025000: 3224 -211
+	decay channel with BR 0.025000: 3214 111
+	decay channel with BR 0.025000: 3114 211
+loaded Lambda(1830) (PDG 13126): stable 0, mass 1.830000, degeneracy 6, statistics 1
+	calculated primary yield: 11137172135.977089 +- 899292935.939153
+	decay channel with BR 0.032500: 2212 -321
+	decay channel with BR 0.032500: 2112 -311
+	decay channel with BR 0.183300: 3222 -211
+	decay channel with BR 0.183300: 3212 111
+	decay channel with BR 0.183300: 3112 211
+	decay channel with BR 0.128300: 3224 -211
+	decay channel with BR 0.128300: 3214 111
+	decay channel with BR 0.128300: 3114 211
+loaded Lambda(1890) (PDG 23124): stable 0, mass 1.890000, degeneracy 4, statistics 1
+	calculated primary yield: 7424768507.537281 +- 599527648.140754
+	decay channel with BR 0.137500: 2212 -321
+	decay channel with BR 0.137500: 2112 -311
+	decay channel with BR 0.021700: 3222 -211
+	decay channel with BR 0.021700: 3212 111
+	decay channel with BR 0.021700: 3112 211
+loaded Lambda(2100) (PDG 3128): stable 0, mass 2.100000, degeneracy 8, statistics 1
+	calculated primary yield: 14849440003.872034 +- 1199047943.304773
+	decay channel with BR 0.150000: 2212 -321
+	decay channel with BR 0.150000: 2112 -311
+	decay channel with BR 0.016700: 3222 -211
+	decay channel with BR 0.016700: 3212 111
+	decay channel with BR 0.016700: 3112 211
+	decay channel with BR 0.015000: 3122 221
+	decay channel with BR 0.007500: 3322 311
+	decay channel with BR 0.007500: 3312 321
+	decay channel with BR 0.040000: 3122 223
+	decay channel with BR 0.075000: 2212 -323
+	decay channel with BR 0.075000: 2112 -313
+loaded Lambda(2110) (PDG 23126): stable 0, mass 2.110000, degeneracy 6, statistics 1
+	calculated primary yield: 11137076346.216154 +- 899285679.629816
+	decay channel with BR 0.075000: 2212 -321
+	decay channel with BR 0.075000: 2112 -311
+	decay channel with BR 0.083300: 3222 -211
+	decay channel with BR 0.083300: 3212 111
+	decay channel with BR 0.083300: 3112 211
+	decay channel with BR 0.175000: 2212 -323
+	decay channel with BR 0.175000: 2112 -313
+loaded Lambda(2350) (PDG 911): stable 0, mass 2.350000, degeneracy 10, statistics 1
+	calculated primary yield: 18561638912.061684 +- 1498797656.289200
+	decay channel with BR 0.060000: 2212 -321
+	decay channel with BR 0.060000: 2112 -311
+	decay channel with BR 0.033300: 3222 -211
+	decay channel with BR 0.033300: 3212 111
+	decay channel with BR 0.033300: 3112 211
+loaded Sigma+ (PDG 3222): stable 1, mass 1.189370, degeneracy 2, statistics 1
+	calculated primary yield: 3712446628.424985 +- 299768499.982439
+loaded Sigma0 (PDG 3212): stable 0, mass 1.192640, degeneracy 2, statistics 1
+	calculated primary yield: 3712446403.490232 +- 299768483.297884
+	decay channel with BR 1.000000: 3122
+loaded Sigma- (PDG 3112): stable 1, mass 1.197450, degeneracy 2, statistics 1
+	calculated primary yield: 3712446071.496272 +- 299768458.669226
+loaded Sigma(1385)+ (PDG 3224): stable 0, mass 1.382800, degeneracy 4, statistics 1
+	calculated primary yield: 7424864512.484725 +- 599534861.702033
+	decay channel with BR 0.880000: 3122 211
+	decay channel with BR 0.060000: 3222 111
+	decay channel with BR 0.060000: 3212 211
+loaded Sigma(1385)0 (PDG 3214): stable 0, mass 1.383700, degeneracy 4, statistics 1
+	calculated primary yield: 7424864368.594679 +- 599534850.968688
+	decay channel with BR 0.880000: 3122 111
+	decay channel with BR 0.060000: 3222 -211
+	decay channel with BR 0.060000: 3112 211
+loaded Sigma(1385)- (PDG 3114): stable 0, mass 1.387200, degeneracy 4, statistics 1
+	calculated primary yield: 7424863808.128537 +- 599534809.158599
+	decay channel with BR 0.880000: 3122 -211
+	decay channel with BR 0.060000: 3212 -211
+	decay channel with BR 0.060000: 3112 111
+loaded Sigma(1660)+ (PDG 13222): stable 0, mass 1.660000, degeneracy 2, statistics 1
+	calculated primary yield: 3712407873.693101 +- 299765604.815146
+	decay channel with BR 0.200000: 2212 -311
+loaded Sigma(1660)0 (PDG 13212): stable 0, mass 1.660000, degeneracy 2, statistics 1
+	calculated primary yield: 3712407873.693101 +- 299765604.815146
+	decay channel with BR 0.100000: 2212 -321
+	decay channel with BR 0.100000: 2112 -311
+loaded Sigma(1660)- (PDG 13112): stable 0, mass 1.660000, degeneracy 2, statistics 1
+	calculated primary yield: 3712407873.693101 +- 299765604.815146
+	decay channel with BR 0.200000: 2112 -321
+loaded Sigma(1670)+ (PDG 13224): stable 0, mass 1.670000, degeneracy 4, statistics 1
+	calculated primary yield: 7424813821.358450 +- 599531064.842346
+	decay channel with BR 0.100000: 2212 -311
+	decay channel with BR 0.100000: 3122 211
+	decay channel with BR 0.225000: 3222 111
+	decay channel with BR 0.225000: 3212 211
+loaded Sigma(1670)0 (PDG 13214): stable 0, mass 1.670000, degeneracy 4, statistics 1
+	calculated primary yield: 7424813821.358450 +- 599531064.842346
+	decay channel with BR 0.050000: 2212 -321
+	decay channel with BR 0.050000: 2112 -311
+	decay channel with BR 0.100000: 3122 111
+	decay channel with BR 0.225000: 3222 -211
+	decay channel with BR 0.225000: 3112 211
+loaded Sigma(1670)- (PDG 13114): stable 0, mass 1.670000, degeneracy 4, statistics 1
+	calculated primary yield: 7424813821.358450 +- 599531064.842346
+	decay channel with BR 0.100000: 2112 -321
+	decay channel with BR 0.100000: 3122 -211
+	decay channel with BR 0.225000: 3212 -211
+	decay channel with BR 0.225000: 3112 111
+loaded Sigma(1750)+ (PDG 23222): stable 0, mass 1.750000, degeneracy 2, statistics 1
+	calculated primary yield: 3712398997.348714 +- 299764936.838412
+	decay channel with BR 0.250000: 2212 -311
+	decay channel with BR 0.020000: 3222 111
+	decay channel with BR 0.020000: 3212 211
+	decay channel with BR 0.350000: 3222 221
+loaded Sigma(1750)0 (PDG 23212): stable 0, mass 1.750000, degeneracy 2, statistics 1
+	calculated primary yield: 3712398997.348714 +- 299764936.838412
+	decay channel with BR 0.125000: 2212 -321
+	decay channel with BR 0.125000: 2112 -311
+	decay channel with BR 0.020000: 3222 -211
+	decay channel with BR 0.020000: 3112 211
+	decay channel with BR 0.350000: 3212 221
+loaded Sigma(1750)- (PDG 23112): stable 0, mass 1.750000, degeneracy 2, statistics 1
+	calculated primary yield: 3712398997.348714 +- 299764936.838412
+	decay channel with BR 0.250000: 2112 -321
+	decay channel with BR 0.020000: 3212 -211
+	decay channel with BR 0.020000: 3112 111
+	decay channel with BR 0.350000: 3112 221
+loaded Sigma(1775)+ (PDG 3226): stable 0, mass 1.775000, degeneracy 6, statistics 1
+	calculated primary yield: 11137189344.431232 +- 899294234.157546
+	decay channel with BR 0.400000: 2212 -311
+	decay channel with BR 0.170000: 3122 211
+	decay channel with BR 0.017500: 3222 111
+	decay channel with BR 0.017500: 3212 211
+	decay channel with BR 0.050000: 3224 111
+	decay channel with BR 0.050000: 3214 211
+	decay channel with BR 0.200000: 3124 211
+loaded Sigma(1775)0 (PDG 3216): stable 0, mass 1.775000, degeneracy 6, statistics 1
+	calculated primary yield: 11137189344.431232 +- 899294234.157546
+	decay channel with BR 0.200000: 2212 -321
+	decay channel with BR 0.200000: 2112 -311
+	decay channel with BR 0.170000: 3122 111
+	decay channel with BR 0.017500: 3222 -211
+	decay channel with BR 0.017500: 3112 211
+	decay channel with BR 0.050000: 3224 -211
+	decay channel with BR 0.050000: 3114 211
+	decay channel with BR 0.200000: 3124 111
+loaded Sigma(1775)- (PDG 3116): stable 0, mass 1.775000, degeneracy 6, statistics 1
+	calculated primary yield: 11137189344.431232 +- 899294234.157546
+	decay channel with BR 0.400000: 2112 -321
+	decay channel with BR 0.170000: 3122 -211
+	decay channel with BR 0.017500: 3212 -211
+	decay channel with BR 0.017500: 3112 111
+	decay channel with BR 0.050000: 3214 -211
+	decay channel with BR 0.050000: 3114 111
+	decay channel with BR 0.200000: 3124 -211
+loaded Sigma(1915)+ (PDG 13226): stable 0, mass 1.915000, degeneracy 6, statistics 1
+	calculated primary yield: 11137144503.156384 +- 899290847.674773
+	decay channel with BR 0.100000: 2212 -311
+	decay channel with BR 0.012500: 3224 111
+	decay channel with BR 0.012500: 3214 211
+loaded Sigma(1915)0 (PDG 13216): stable 0, mass 1.915000, degeneracy 6, statistics 1
+	calculated primary yield: 11137144503.156384 +- 899290847.674773
+	decay channel with BR 0.050000: 2212 -321
+	decay channel with BR 0.050000: 2112 -311
+	decay channel with BR 0.012500: 3224 -211
+	decay channel with BR 0.012500: 3114 211
+loaded Sigma(1915)- (PDG 13116): stable 0, mass 1.915000, degeneracy 6, statistics 1
+	calculated primary yield: 11137144503.156384 +- 899290847.674773
+	decay channel with BR 0.100000: 2112 -321
+	decay channel with BR 0.012500: 3214 -211
+	decay channel with BR 0.012500: 3114 111
+loaded Sigma(1940)+ (PDG 23224): stable 0, mass 1.940000, degeneracy 4, statistics 1
+	calculated primary yield: 7424757423.968542 +- 599526809.673436
+	decay channel with BR 0.100000: 2212 -311
+loaded Sigma(1940)0 (PDG 23214): stable 0, mass 1.940000, degeneracy 4, statistics 1
+	calculated primary yield: 7424757423.968542 +- 599526809.673436
+	decay channel with BR 0.050000: 2212 -321
+	decay channel with BR 0.050000: 2112 -311
+loaded Sigma(1940)- (PDG 23114): stable 0, mass 1.940000, degeneracy 4, statistics 1
+	calculated primary yield: 7424757423.968542 +- 599526809.673436
+	decay channel with BR 0.100000: 2112 -321
+loaded Sigma(2030)+ (PDG 3228): stable 0, mass 2.030000, degeneracy 8, statistics 1
+	calculated primary yield: 14849473481.230392 +- 1199050484.755265
+	decay channel with BR 0.200000: 2212 -311
+	decay channel with BR 0.200000: 3122 211
+	decay channel with BR 0.037500: 3222 111
+	decay channel with BR 0.037500: 3212 211
+	decay channel with BR 0.010000: 3322 321
+	decay channel with BR 0.050000: 3224 111
+	decay channel with BR 0.050000: 3214 211
+	decay channel with BR 0.150000: 3124 211
+	decay channel with BR 0.112500: 2224 -321
+	decay channel with BR 0.037500: 2214 -311
+	decay channel with BR 0.025000: 2212 -313
+loaded Sigma(2030)0 (PDG 3218): stable 0, mass 2.030000, degeneracy 8, statistics 1
+	calculated primary yield: 14849473481.230392 +- 1199050484.755265
+	decay channel with BR 0.100000: 2212 -321
+	decay channel with BR 0.100000: 2112 -311
+	decay channel with BR 0.200000: 3122 111
+	decay channel with BR 0.037500: 3222 -211
+	decay channel with BR 0.037500: 3112 211
+	decay channel with BR 0.005000: 3322 311
+	decay channel with BR 0.005000: 3312 321
+	decay channel with BR 0.050000: 3224 -211
+	decay channel with BR 0.050000: 3114 211
+	decay channel with BR 0.150000: 3124 111
+	decay channel with BR 0.075000: 2214 -321
+	decay channel with BR 0.075000: 2114 -311
+	decay channel with BR 0.012500: 2212 -323
+	decay channel with BR 0.012500: 2112 -313
+loaded Sigma(2030)- (PDG 3118): stable 0, mass 2.030000, degeneracy 8, statistics 1
+	calculated primary yield: 14849473481.230392 +- 1199050484.755265
+	decay channel with BR 0.200000: 2112 -321
+	decay channel with BR 0.200000: 3122 -211
+	decay channel with BR 0.037500: 3212 -211
+	decay channel with BR 0.037500: 3112 111
+	decay channel with BR 0.010000: 3312 311
+	decay channel with BR 0.050000: 3214 -211
+	decay channel with BR 0.050000: 3114 111
+	decay channel with BR 0.150000: 3124 -211
+	decay channel with BR 0.037500: 2114 -321
+	decay channel with BR 0.112500: 1114 -311
+	decay channel with BR 0.025000: 2112 -323
+loaded Ksi0 (PDG 3322): stable 1, mass 1.314830, degeneracy 2, statistics 1
+	calculated primary yield: 3712437553.869684 +- 299767825.634267
+loaded Ksi- (PDG 3312): stable 1, mass 1.321310, degeneracy 2, statistics 1
+	calculated primary yield: 3712437060.373965 +- 299767788.891613
+loaded Ksi(1530)0 (PDG 3324): stable 0, mass 1.531800, degeneracy 4, statistics 1
+	calculated primary yield: 7424839409.701540 +- 599532985.193223
+	decay channel with BR 0.666700: 3312 211
+	decay channel with BR 0.333300: 3322 111
+loaded Ksi(1530)- (PDG 3314): stable 0, mass 1.535000, degeneracy 4, statistics 1
+	calculated primary yield: 7424838842.301823 +- 599532942.689942
+	decay channel with BR 0.333300: 3312 111
+	decay channel with BR 0.666700: 3322 -211
+loaded Ksi(1690)0 (PDG 23324): stable 0, mass 1.690000, degeneracy 4, statistics 1
+	calculated primary yield: 7424809934.435760 +- 599530772.530178
+	decay channel with BR 0.330000: 3122 -311
+	decay channel with BR 0.220000: 3222 -321
+	decay channel with BR 0.110000: 3212 -311
+	decay channel with BR 0.110000: 3322 111
+	decay channel with BR 0.220000: 3312 211
+loaded Ksi(1690)- (PDG 23314): stable 0, mass 1.690000, degeneracy 4, statistics 1
+	calculated primary yield: 7424809934.435760 +- 599530772.530178
+	decay channel with BR 0.330000: 3122 -321
+	decay channel with BR 0.110000: 3212 -321
+	decay channel with BR 0.220000: 3112 -311
+	decay channel with BR 0.220000: 3322 -211
+	decay channel with BR 0.110000: 3312 111
+loaded Ksi(1820)0 (PDG 13324): stable 0, mass 1.823000, degeneracy 4, statistics 1
+	calculated primary yield: 7424782903.631566 +- 599528735.651751
+	decay channel with BR 1.000000: 3122 -311
+loaded Ksi(1820)- (PDG 13314): stable 0, mass 1.823000, degeneracy 4, statistics 1
+	calculated primary yield: 7424782903.631566 +- 599528735.651751
+	decay channel with BR 1.000000: 3122 -321
+loaded Ksi(1950)0 (PDG 33324): stable 0, mass 1.950000, degeneracy 4, statistics 1
+	calculated primary yield: 7424755172.356226 +- 599526639.217856
+	decay channel with BR 0.500000: 3122 -311
+	decay channel with BR 0.167000: 3322 111
+	decay channel with BR 0.333000: 3312 211
+loaded Ksi(1950)- (PDG 33314): stable 0, mass 1.950000, degeneracy 4, statistics 1
+	calculated primary yield: 7424755172.356226 +- 599526639.217856
+	decay channel with BR 0.500000: 3122 -321
+	decay channel with BR 0.167000: 3312 111
+	decay channel with BR 0.333000: 3322 -211
+loaded Ksi(2030)0 (PDG 43324): stable 0, mass 2.025000, degeneracy 6, statistics 1
+	calculated primary yield: 11137106871.623308 +- 899287997.115936
+	decay channel with BR 0.200000: 3122 -311
+	decay channel with BR 0.533300: 3222 -321
+	decay channel with BR 0.266700: 3212 -311
+loaded Ksi(2030)- (PDG 43314): stable 0, mass 2.025000, degeneracy 6, statistics 1
+	calculated primary yield: 11137106871.623308 +- 899287997.115936
+	decay channel with BR 0.200000: 3122 -321
+	decay channel with BR 0.266700: 3212 -321
+	decay channel with BR 0.533300: 3112 -311
+loaded Omega (PDG 3334): stable 1, mass 1.672450, degeneracy 4, statistics 1
+	calculated primary yield: 7424813347.709134 +- 599531029.230227
+loaded K0_(800)+ (PDG 9000321): stable 1, mass 0.670000, degeneracy 1, statistics -1
+	calculated primary yield: 2479867877.126342 +- 209528616.228244
+loaded K0_(800)0 (PDG 9000311): stable 1, mass 0.670000, degeneracy 1, statistics -1
+	calculated primary yield: 2479867877.126342 +- 209528616.228244
+loaded h1(1380) (PDG 10333): stable 1, mass 1.386000, degeneracy 3, statistics -1
+	calculated primary yield: 7439100009.549384 +- 628451640.916070
+loaded pi1(1400)+ (PDG 9000213): stable 1, mass 1.351000, degeneracy 3, statistics -1
+	calculated primary yield: 7439132210.333188 +- 628460000.551849
+loaded pi1(1400)0 (PDG 9000113): stable 1, mass 1.351000, degeneracy 3, statistics -1
+	calculated primary yield: 7439132210.333188 +- 628460000.551849
+loaded f2(1430) (PDG 9000225): stable 1, mass 1.453000, degeneracy 5, statistics -1
+	calculated primary yield: 12398393785.566984 +- 1047391951.011815
+loaded f1(1510) (PDG 9000223): stable 1, mass 1.518000, degeneracy 3, statistics -1
+	calculated primary yield: 7438971823.759815 +- 628418617.327537
+loaded pi1(1600)+ (PDG 9010213): stable 1, mass 1.662000, degeneracy 3, statistics -1
+	calculated primary yield: 7438820002.393481 +- 628380000.380009
+loaded pi1(1600)0 (PDG 9010113): stable 1, mass 1.662000, degeneracy 3, statistics -1
+	calculated primary yield: 7438820002.393481 +- 628380000.380009
+loaded a1(1640)+ (PDG 9020213): stable 1, mass 1.647000, degeneracy 3, statistics -1
+	calculated primary yield: 7438836393.441566 +- 628384144.905429
+loaded a1(1640)0 (PDG 9020113): stable 1, mass 1.647000, degeneracy 3, statistics -1
+	calculated primary yield: 7438836393.441566 +- 628384144.905429
+loaded f2(1640) (PDG 9020225): stable 1, mass 1.639000, degeneracy 5, statistics -1
+	calculated primary yield: 12398075134.731682 +- 1047310573.180076
+loaded eta2(1645) (PDG 10225): stable 1, mass 1.617000, degeneracy 5, statistics -1
+	calculated primary yield: 12398114625.503862 +- 1047320583.320358
+loaded a2(1700)+ (PDG 9000215): stable 1, mass 1.732000, degeneracy 5, statistics -1
+	calculated primary yield: 12397902927.030289 +- 1047267157.906440
+loaded a2(1700)0 (PDG 9000115): stable 1, mass 1.732000, degeneracy 5, statistics -1
+	calculated primary yield: 12397902927.030289 +- 1047267157.906440
+loaded eta(1760) (PDG 9040221): stable 1, mass 1.756000, degeneracy 1, statistics -1
+	calculated primary yield: 2479571422.342774 +- 209451134.095651
+loaded f2(1810) (PDG 9030225): stable 1, mass 1.815000, degeneracy 5, statistics -1
+	calculated primary yield: 12397742104.569164 +- 1047226947.548166
+loaded f2(1910) (PDG 9040225): stable 1, mass 1.903000, degeneracy 5, statistics -1
+	calculated primary yield: 12397564336.418026 +- 1047182859.240968
+loaded rho3(1990)+ (PDG 9000217): stable 1, mass 1.982000, degeneracy 7, statistics -1
+	calculated primary yield: 17356357842.199730 +- 1465998863.784854
+loaded rho3(1990)0 (PDG 9000117): stable 1, mass 1.982000, degeneracy 7, statistics -1
+	calculated primary yield: 17356357842.199730 +- 1465998863.784854
+loaded f0(2020) (PDG 9050221): stable 1, mass 1.992000, degeneracy 1, statistics -1
+	calculated primary yield: 2479475408.120636 +- 209427359.589940
+loaded f2(2340) (PDG 9090225): stable 1, mass 2.340000, degeneracy 5, statistics -1
+	calculated primary yield: 12396573912.797043 +- 1046943439.618151
+loaded K2(1580)+ (PDG 9000325): stable 1, mass 1.460000, degeneracy 5, statistics -1
+	calculated primary yield: 12398382423.339830 +- 1047389024.797277
+loaded K2(1580)0 (PDG 9000315): stable 1, mass 1.460000, degeneracy 5, statistics -1
+	calculated primary yield: 12398382423.339830 +- 1047389024.797277
+loaded K1(1650)+ (PDG 9000323): stable 1, mass 1.650000, degeneracy 3, statistics -1
+	calculated primary yield: 7438833125.888544 +- 628383318.229696
+loaded K1(1650)0 (PDG 9000313): stable 1, mass 1.650000, degeneracy 3, statistics -1
+	calculated primary yield: 7438833125.888544 +- 628383318.229696
+loaded K3(2320)+ (PDG 9010327): stable 1, mass 2.324000, degeneracy 7, statistics -1
+	calculated primary yield: 17355258570.248798 +- 1465733873.907726
+loaded K3(2320)0 (PDG 9010317): stable 1, mass 2.324000, degeneracy 7, statistics -1
+	calculated primary yield: 17355258570.248798 +- 1465733873.907726
+loaded K4(2500)+ (PDG 9000329): stable 1, mass 2.490000, degeneracy 9, statistics -1
+	calculated primary yield: 22313148955.542938 +- 1884337339.896423
+loaded K4(2500)0 (PDG 9000319): stable 1, mass 2.490000, degeneracy 9, statistics -1
+	calculated primary yield: 22313148955.542938 +- 1884337339.896423
+loaded D+ (PDG 411): stable 0, mass 1.869620, degeneracy 1, statistics -1
+	calculated primary yield: 2479526528.177536 +- 209439951.178399
+	decay channel with BR 0.026000: -311 211
+	decay channel with BR 0.019000: -313 211
+	decay channel with BR 0.066000: -311 213
+	decay channel with BR 0.041000: -313 213
+	decay channel with BR 0.045000: -20313 211
+	decay channel with BR 0.076000: -311 20213
+	decay channel with BR 0.007300: -311 321
+	decay channel with BR 0.004700: -313 321
+	decay channel with BR 0.004700: -311 323
+	decay channel with BR 0.026000: -313 323
+	decay channel with BR 0.001000: 111 211
+	decay channel with BR 0.006000: 111 213
+	decay channel with BR 0.006600: 221 211
+	decay channel with BR 0.005000: 221 213
+	decay channel with BR 0.003000: 331 211
+	decay channel with BR 0.003000: 331 213
+	decay channel with BR 0.000600: 113 211
+	decay channel with BR 0.000600: 113 213
+	decay channel with BR 0.001000: 223 211
+	decay channel with BR 0.001000: 223 213
+	decay channel with BR 0.006000: 333 211
+	decay channel with BR 0.005000: 333 213
+	decay channel with BR 0.012000: -311 211 111
+	decay channel with BR 0.005700: -313 211 113
+	decay channel with BR 0.006700: -321 211 211
+	decay channel with BR 0.008000: -321 213 211
+	decay channel with BR 0.002200: 211 211 -211
+	decay channel with BR 0.027000: -311 321 -311
+	decay channel with BR 0.004000: -321 321 211
+	decay channel with BR 0.019000: 333 211 111
+	decay channel with BR 0.012000: -311 211 211 -211
+	decay channel with BR 0.002000: -313 211 211 -211
+	decay channel with BR 0.009000: -321 211 211 111
+	decay channel with BR 0.021000: 211 211 -211 111
+	decay channel with BR 0.001000: -321 211 211 211 -211
+	decay channel with BR 0.022000: -321 211 211 111 111
+	decay channel with BR 0.087000: -311 211 211 -211 111
+	decay channel with BR 0.000010: -311 113 211 211 -211
+	decay channel with BR 0.000019: -321 113 211 211 111
+	decay channel with BR 0.000015: 211 211 211 -211 -211
+	decay channel with BR 0.000028: 113 211 211 -211 111
+loaded D0 (PDG 421): stable 0, mass 1.864840, degeneracy 1, statistics -1
+	calculated primary yield: 2479528466.967415 +- 209440431.655192
+	decay channel with BR 0.026000: -311 211
+	decay channel with BR 0.019000: -313 211
+	decay channel with BR 0.066000: -311 213
+	decay channel with BR 0.041000: -313 213
+	decay channel with BR 0.045000: -20313 211
+	decay channel with BR 0.076000: -311 20213
+	decay channel with BR 0.007300: -311 321
+	decay channel with BR 0.004700: -313 321
+	decay channel with BR 0.004700: -311 323
+	decay channel with BR 0.026000: -313 323
+	decay channel with BR 0.001000: 111 211
+	decay channel with BR 0.006000: 111 213
+	decay channel with BR 0.006600: 221 211
+	decay channel with BR 0.005000: 221 213
+	decay channel with BR 0.003000: 331 211
+	decay channel with BR 0.003000: 331 213
+	decay channel with BR 0.000600: 113 211
+	decay channel with BR 0.000600: 113 213
+	decay channel with BR 0.001000: 223 211
+	decay channel with BR 0.001000: 223 213
+	decay channel with BR 0.006000: 333 211
+	decay channel with BR 0.005000: 333 213
+	decay channel with BR 0.012000: -311 211 111
+	decay channel with BR 0.005700: -313 211 113
+	decay channel with BR 0.006700: -321 211 211
+	decay channel with BR 0.008000: -321 213 211
+	decay channel with BR 0.002200: 211 211 -211
+	decay channel with BR 0.027000: -311 321 -311
+	decay channel with BR 0.004000: -321 321 211
+	decay channel with BR 0.019000: 333 211 111
+	decay channel with BR 0.012000: -311 211 211 -211
+	decay channel with BR 0.002000: -313 211 211 -211
+	decay channel with BR 0.009000: -321 211 211 111
+	decay channel with BR 0.021000: 211 211 -211 111
+	decay channel with BR 0.001000: -321 211 211 211 -211
+	decay channel with BR 0.022000: -321 211 211 111 111
+	decay channel with BR 0.087000: -311 211 211 -211 111
+	decay channel with BR 0.000010: -311 113 211 211 -211
+	decay channel with BR 0.000019: -321 113 211 211 111
+	decay channel with BR 0.000015: 211 211 211 -211 -211
+	decay channel with BR 0.000028: 113 211 211 -211 111
+loaded D_(2007)0 (PDG 423): stable 0, mass 2.006970, degeneracy 3, statistics -1
+	calculated primary yield: 7438406881.039558 +- 628277345.156191
+	decay channel with BR 0.647000: 421 111
+	decay channel with BR 0.353000: 421
+loaded D_(2010)+ (PDG 413): stable 0, mass 2.010270, degeneracy 3, statistics -1
+	calculated primary yield: 7438402599.973923 +- 628276298.426924
+	decay channel with BR 0.677000: 421 211
+	decay channel with BR 0.307000: 411 111
+	decay channel with BR 0.016000: 411
+loaded D0_(2400)+ (PDG 10411): stable 0, mass 2.400000, degeneracy 1, statistics -1
+	calculated primary yield: 2479284859.688745 +- 209381621.271103
+	decay channel with BR 0.667000: 421 211
+	decay channel with BR 0.333000: 411 111
+loaded D1(2420)0 (PDG 10423): stable 0, mass 2.422300, degeneracy 3, statistics -1
+	calculated primary yield: 7437820723.184534 +- 628136899.822066
+	decay channel with BR 0.667000: 413 -211
+	decay channel with BR 0.333000: 423 111
+loaded D1(2420)+ (PDG 10413): stable 0, mass 2.423400, degeneracy 3, statistics -1
+	calculated primary yield: 7437819046.289676 +- 628136505.805136
+	decay channel with BR 0.667000: 423 211
+	decay channel with BR 0.333000: 413 111
+loaded D1(2430)0 (PDG 20423): stable 0, mass 2.430000, degeneracy 3, statistics -1
+	calculated primary yield: 7437808971.366760 +- 628134139.394353
+	decay channel with BR 0.667000: 413 -211
+	decay channel with BR 0.333000: 423 111
+loaded D2_(2460)0 (PDG 425): stable 0, mass 2.461100, degeneracy 5, statistics -1
+	calculated primary yield: 12396268641.551191 +- 1046871559.300499
+	decay channel with BR 0.300000: 421 111
+	decay channel with BR 0.150000: 411 -211
+	decay channel with BR 0.160000: 423 111
+	decay channel with BR 0.080000: 413 -211
+	decay channel with BR 0.130000: 423 211 -211
+	decay channel with BR 0.060000: 413 -211 111
+	decay channel with BR 0.080000: 421 211 -211
+	decay channel with BR 0.040000: 411 -211 111
+loaded D2_(2460)+ (PDG 415): stable 0, mass 2.460100, degeneracy 5, statistics -1
+	calculated primary yield: 12396271215.789608 +- 1046872161.975832
+	decay channel with BR 0.300000: 421 211
+	decay channel with BR 0.150000: 411 111
+	decay channel with BR 0.160000: 423 211
+	decay channel with BR 0.080000: 413 111
+	decay channel with BR 0.130000: 423 211 111
+	decay channel with BR 0.060000: 413 211 -211
+	decay channel with BR 0.080000: 421 211 111
+	decay channel with BR 0.040000: 411 211 -211
+loaded Ds+ (PDG 431): stable 0, mass 1.968490, degeneracy 1, statistics -1
+	calculated primary yield: 2479485448.961608 +- 209429821.262993
+	decay channel with BR 0.015000: 221 211
+	decay channel with BR 0.037000: 331 211
+	decay channel with BR 0.028000: 333 211
+	decay channel with BR 0.079000: 221 213
+	decay channel with BR 0.095000: 331 213
+	decay channel with BR 0.052000: 333 213
+	decay channel with BR 0.007800: 10221 211
+	decay channel with BR 0.001000: 211 111
+	decay channel with BR 0.001000: 213 111
+	decay channel with BR 0.001000: 211 113
+	decay channel with BR 0.001000: 213 113
+	decay channel with BR 0.002000: -311
+	decay channel with BR 0.003000: -311
+	decay channel with BR 0.002000: -313
+	decay channel with BR 0.005000: 323 -313
+	decay channel with BR 0.001000: 2212 -2112
+	decay channel with BR 0.005000: 221 321
+	decay channel with BR 0.005000: 331 321
+	decay channel with BR 0.005000: 333 321
+	decay channel with BR 0.005000: 221 323
+loaded Ds_+ (PDG 433): stable 0, mass 1.968490, degeneracy 3, statistics -1
+	calculated primary yield: 7438456346.884825 +- 628289463.788978
+	decay channel with BR 0.940000: 431
+	decay channel with BR 0.060000: 431 111
+loaded Ds0_(2317)+ (PDG 10431): stable 0, mass 2.317800, degeneracy 1, statistics -1
+	calculated primary yield: 2479325690.253572 +- 209391274.124844
+	decay channel with BR 1.000000: 431 111
+loaded Ds1(2460)+ (PDG 20433): stable 0, mass 2.459600, degeneracy 3, statistics -1
+	calculated primary yield: 7437763501.546169 +- 628123477.954497
+	decay channel with BR 0.180000: 431
+	decay channel with BR 0.050000: 431 211 -211
+	decay channel with BR 0.480000: 433 111
+	decay channel with BR 0.290000: 433
+loaded Ds1(2536)+ (PDG 10433): stable 0, mass 2.535400, degeneracy 3, statistics -1
+	calculated primary yield: 7437644944.771621 +- 628095820.173332
+	decay channel with BR 0.150000: 423 321
+	decay channel with BR 0.850000: 413 311
+loaded Ds2(2573)+ (PDG 435): stable 0, mass 2.572600, degeneracy 5, statistics -1
+	calculated primary yield: 12395976090.058966 +- 1046803438.338953
+	decay channel with BR 0.400000: 421 321
+	decay channel with BR 0.400000: 411 311
+	decay channel with BR 0.100000: 423 321
+	decay channel with BR 0.100000: 413 311
+loaded Bs0 (PDG 531): stable 0, mass 5.366300, degeneracy 1, statistics -1
+	calculated primary yield: 2477087401.114703 +- 208934189.711906
+	decay channel with BR 0.003500: -431 211
+	decay channel with BR 0.011000: -431 213
+	decay channel with BR 0.005500: -431 20213
+	decay channel with BR 0.004200: -433 211
+	decay channel with BR 0.009000: -433 213
+	decay channel with BR 0.018000: -433 20213
+	decay channel with BR 0.015000: -431 431
+	decay channel with BR 0.018500: -431 433
+	decay channel with BR 0.013500: -433 431
+	decay channel with BR 0.025000: -433 433
+	decay channel with BR 0.000200: 441 221
+	decay channel with BR 0.000200: 441 331
+	decay channel with BR 0.000700: 441 333
+	decay channel with BR 0.000400: 443 221
+	decay channel with BR 0.000400: 443 331
+	decay channel with BR 0.001400: 443 333
+	decay channel with BR 0.001200: 443 221
+	decay channel with BR 0.000900: 20443 331
+	decay channel with BR 0.002500: 20443 333
+loaded Bs_0 (PDG 533): stable 0, mass 5.366300, degeneracy 3, statistics -1
+	calculated primary yield: 7431262203.344103 +- 626802569.135717
+	decay channel with BR 0.003500: -431 211
+	decay channel with BR 0.011000: -431 213
+	decay channel with BR 0.005500: -431 20213
+	decay channel with BR 0.004200: -433 211
+	decay channel with BR 0.009000: -433 213
+	decay channel with BR 0.018000: -433 20213
+	decay channel with BR 0.015000: -431 431
+	decay channel with BR 0.018500: -431 433
+	decay channel with BR 0.013500: -433 431
+	decay channel with BR 0.025000: -433 433
+	decay channel with BR 0.000200: 441 221
+	decay channel with BR 0.000200: 441 331
+	decay channel with BR 0.000700: 441 333
+	decay channel with BR 0.000400: 443 221
+	decay channel with BR 0.000400: 443 331
+	decay channel with BR 0.001400: 443 333
+	decay channel with BR 0.001200: 443 221
+	decay channel with BR 0.000900: 20443 331
+	decay channel with BR 0.002500: 20443 333
+loaded B+ (PDG 521): stable 0, mass 5.279150, degeneracy 1, statistics -1
+	calculated primary yield: 2477170122.735277 +- 208949278.052221
+	decay channel with BR 0.003500: -421 211
+	decay channel with BR 0.011000: -421 213
+	decay channel with BR 0.005500: -421 20213
+	decay channel with BR 0.004200: -423 211
+	decay channel with BR 0.009000: -423 213
+	decay channel with BR 0.018000: -423 20213
+	decay channel with BR 0.015000: -421 431
+	decay channel with BR 0.018500: -421 433
+	decay channel with BR 0.013500: -423 431
+	decay channel with BR 0.025000: -423 433
+	decay channel with BR 0.000400: 441 321
+	decay channel with BR 0.000700: 441 323
+	decay channel with BR 0.000800: 443 321
+	decay channel with BR 0.001400: 443 323
+	decay channel with BR 0.001900: 20443 321
+	decay channel with BR 0.002500: 20443 323
+loaded B0 (PDG 511): stable 0, mass 5.279530, degeneracy 1, statistics -1
+	calculated primary yield: 2477169764.232061 +- 208949212.448151
+	decay channel with BR 0.350000: -411 211
+	decay channel with BR 0.011000: -411 213
+	decay channel with BR 0.005500: -411 20213
+	decay channel with BR 0.004200: -413 211
+	decay channel with BR 0.009000: -413 213
+	decay channel with BR 0.018000: -413 20213
+	decay channel with BR 0.015000: -411 431
+	decay channel with BR 0.018000: -411 433
+	decay channel with BR 0.013000: -413 431
+	decay channel with BR 0.025000: -413 433
+	decay channel with BR 0.000400: 441 311
+	decay channel with BR 0.000700: 441 313
+	decay channel with BR 0.000800: 443 311
+	decay channel with BR 0.001400: 443 313
+	decay channel with BR 0.001900: 20443 311
+	decay channel with BR 0.002500: 20443 313
+loaded B_+ (PDG 523): stable 0, mass 5.279530, degeneracy 3, statistics -1
+	calculated primary yield: 7431509292.696185 +- 626847637.344455
+	decay channel with BR 1.000000: 521
+loaded B_0 (PDG 513): stable 0, mass 5.279530, degeneracy 3, statistics -1
+	calculated primary yield: 7431509292.696185 +- 626847637.344455
+	decay channel with BR 1.000000: 511
+loaded Bc+ (PDG 541): stable 0, mass 6.276000, degeneracy 1, statistics -1
+	calculated primary yield: 2476165197.403743 +- 208771967.281815
+	decay channel with BR 0.012000: 441
+	decay channel with BR 0.035000: 443
+	decay channel with BR 0.012000: 441
+	decay channel with BR 0.035000: 443
+	decay channel with BR 0.003000: 441
+	decay channel with BR 0.007000: 443
+	decay channel with BR 0.014000: 531
+	decay channel with BR 0.042000: 533
+	decay channel with BR 0.014000: 531
+	decay channel with BR 0.001000: 511
+	decay channel with BR 0.002000: 513
+	decay channel with BR 0.001000: 511
+	decay channel with BR 0.002000: 513
+loaded etac(1S)0 (PDG 441): stable 1, mass 2.980300, degeneracy 1, statistics -1
+	calculated primary yield: 2478963031.756305 +- 209307962.464233
+loaded J/psi(1S)0 (PDG 443): stable 1, mass 3.096916, degeneracy 3, statistics -1
+	calculated primary yield: 7436674452.432074 +- 627876326.496367
+loaded chic0(1P)0 (PDG 10441): stable 0, mass 3.414750, degeneracy 1, statistics -1
+	calculated primary yield: 2478685264.955850 +- 209247336.918822
+	decay channel with BR 0.170000: 443
+loaded chic1(1P)0 (PDG 20443): stable 0, mass 3.510660, degeneracy 3, statistics -1
+	calculated primary yield: 7435859627.838783 +- 627700219.608803
+	decay channel with BR 0.273000: 443 211
+loaded chic2(1P)0 (PDG 445): stable 0, mass 3.556200, degeneracy 5, statistics -1
+	calculated primary yield: 12392941617.736385 +- 1046133638.875398
+	decay channel with BR 0.135000: 443
+loaded etac(2S)0 (PDG 100441): stable 1, mass 3.637000, degeneracy 1, statistics -1
+	calculated primary yield: 2478531548.271116 +- 209214778.682928
+loaded psi(2S)0 (PDG 100443): stable 0, mass 3.686090, degeneracy 3, statistics -1
+	calculated primary yield: 7435489686.684179 +- 627622375.089924
+	decay channel with BR 0.320000: 211 -211
+	decay channel with BR 0.180000: 111 111
+	decay channel with BR 0.027000: 443 221
+	decay channel with BR 0.001000: 443 111
+	decay channel with BR 0.093000: 10441
+	decay channel with BR 0.087000: 20443
+	decay channel with BR 0.078000: 445
+	decay channel with BR 0.002800: 441
+loaded chic2(2P)0 (PDG 100445): stable 0, mass 3.929000, degeneracy 5, statistics -1
+	calculated primary yield: 12391590182.899162 +- 1045852951.027586
+	decay channel with BR 0.135000: 443
+loaded psi(4040)0 (PDG 9000443): stable 0, mass 4.039000, degeneracy 3, statistics -1
+	calculated primary yield: 7434702821.880419 +- 627460673.581289
+	decay channel with BR 0.320000: 211 -211
+	decay channel with BR 0.180000: 111 111
+	decay channel with BR 0.027000: 443 221
+	decay channel with BR 0.001000: 443 111
+	decay channel with BR 0.093000: 10441
+	decay channel with BR 0.087000: 20443
+	decay channel with BR 0.078000: 445
+	decay channel with BR 0.002800: 441
+loaded psi(4160)0 (PDG 9010443): stable 0, mass 4.153000, degeneracy 3, statistics -1
+	calculated primary yield: 7434436724.855809 +- 627407088.691071
+	decay channel with BR 0.324000: 443 211 -211
+	decay channel with BR 0.184000: 443 111 111
+	decay channel with BR 0.027000: 443 221
+	decay channel with BR 0.001000: 443 111
+	decay channel with BR 0.093000: 10441
+	decay channel with BR 0.087000: 20443
+	decay channel with BR 0.078000: 445
+	decay channel with BR 0.002800: 441
+loaded psi(4415)0 (PDG 9020443): stable 0, mass 4.421000, degeneracy 3, statistics -1
+	calculated primary yield: 7433788779.319872 +- 627278726.815070
+	decay channel with BR 0.324000: 443 211 -211
+	decay channel with BR 0.184000: 443 111 111
+	decay channel with BR 0.027000: 443 221
+	decay channel with BR 0.001000: 443 111
+	decay channel with BR 0.093000: 10441
+	decay channel with BR 0.087000: 20443
+	decay channel with BR 0.078000: 445
+	decay channel with BR 0.002800: 441
+loaded Upsilon(1S)0 (PDG 553): stable 1, mass 9.460300, degeneracy 3, statistics -1
+	calculated primary yield: 7416487120.863729 +- 624450519.535871
+loaded chib0(1P)0 (PDG 10551): stable 0, mass 9.859400, degeneracy 1, statistics -1
+	calculated primary yield: 2471582267.413619 +- 208067260.216451
+	decay channel with BR 1.000000: 553 111
+loaded chib1(1P)0 (PDG 20553): stable 0, mass 9.892800, degeneracy 3, statistics -1
+	calculated primary yield: 7414598913.916719 +- 624180826.007707
+	decay channel with BR 1.000000: 553 211
+loaded chib2(1P)0 (PDG 555): stable 0, mass 9.912200, degeneracy 5, statistics -1
+	calculated primary yield: 12357521427.690388 +- 1040281075.049858
+	decay channel with BR 0.220000: 553
+loaded Upsilon(2S)0 (PDG 100553): stable 0, mass 10.023260, degeneracy 3, statistics -1
+	calculated primary yield: 7414017969.653420 +- 624098774.961372
+	decay channel with BR 0.185000: 553 211 -211
+	decay channel with BR 0.088000: 553 111 111
+	decay channel with BR 0.043000: 10551
+	decay channel with BR 0.067000: 20553
+	decay channel with BR 0.066000: 555
+loaded chib0(2P)0 (PDG 110551): stable 0, mass 10.232500, degeneracy 1, statistics -1
+	calculated primary yield: 2471025106.125744 +- 207988835.680107
+	decay channel with BR 1.000000: 553 111
+loaded chib1(2P)0 (PDG 120553): stable 0, mass 10.255500, degeneracy 3, statistics -1
+	calculated primary yield: 7412970885.915029 +- 623951917.920022
+	decay channel with BR 0.350000: 553
+loaded chib2(2P)0 (PDG 100555): stable 0, mass 10.268600, degeneracy 5, statistics -1
+	calculated primary yield: 12354852221.552933 +- 1039906006.754268
+	decay channel with BR 1.000000: 553 211
+loaded Upsilon(3S)0 (PDG 200553): stable 0, mass 10.355200, degeneracy 3, statistics -1
+	calculated primary yield: 7412516336.585340 +- 623888563.270078
+	decay channel with BR 0.185000: 553 211 -211
+	decay channel with BR 0.088000: 553 111 111
+	decay channel with BR 0.043000: 10551
+	decay channel with BR 0.067000: 20553
+	decay channel with BR 0.066000: 555
+loaded Upsilon(4S)0 (PDG 300553): stable 0, mass 10.579400, degeneracy 3, statistics -1
+	calculated primary yield: 7411483197.295510 +- 623745421.444053
+	decay channel with BR 0.185000: 553 211 -211
+	decay channel with BR 0.088000: 553 111 111
+	decay channel with BR 0.043000: 10551
+	decay channel with BR 0.067000: 20553
+	decay channel with BR 0.066000: 555
+loaded Upsilon(10860)0 (PDG 9000553): stable 1, mass 10.865000, degeneracy 3, statistics -1
+	calculated primary yield: 7410145299.061553 +- 623561739.717280
+loaded Upsilon(11020)0 (PDG 9010553): stable 1, mass 11.019000, degeneracy 3, statistics -1
+	calculated primary yield: 7409413826.936239 +- 623462078.596397
+loaded Lambdac+ (PDG 4122): stable 0, mass 2.286460, degeneracy 2, statistics 1
+	calculated primary yield: 3712336315.924422 +- 299760182.630870
+	decay channel with BR 0.660000: 2224 -321
+	decay channel with BR 0.025000: 2224 -323
+	decay channel with BR 0.016000: 2212 -311
+	decay channel with BR 0.088000: 2212 -313
+	decay channel with BR 0.005000: 2214 -311
+	decay channel with BR 0.005000: 2214 -313
+	decay channel with BR 0.005000: 3122 211
+	decay channel with BR 0.005000: 3122 213
+	decay channel with BR 0.005000: 3212 211
+	decay channel with BR 0.004000: 3212 213
+	decay channel with BR 0.004000: 3214 211
+	decay channel with BR 0.004000: 3214 213
+	decay channel with BR 0.004000: 3222 111
+	decay channel with BR 0.002000: 3222 221
+	decay channel with BR 0.002000: 3222 331
+	decay channel with BR 0.004000: 3222 113
+	decay channel with BR 0.004000: 3222 223
+	decay channel with BR 0.003000: 3224 111
+	decay channel with BR 0.002000: 3224 221
+	decay channel with BR 0.003000: 3224 113
+	decay channel with BR 0.003000: 3224 223
+	decay channel with BR 0.002000: 3322 321
+	decay channel with BR 0.002000: 3322 323
+	decay channel with BR 0.002000: 3324 321
+	decay channel with BR 0.001000: 2224 -211
+	decay channel with BR 0.001000: 2224 -213
+	decay channel with BR 0.002000: 2212 111
+	decay channel with BR 0.001000: 2212 221
+	decay channel with BR 0.001000: 2212 331
+	decay channel with BR 0.002000: 2212 113
+	decay channel with BR 0.002000: 2212 223
+	decay channel with BR 0.001000: 2212 333
+	decay channel with BR 0.001000: 2212 10221
+	decay channel with BR 0.001000: 2214 111
+	decay channel with BR 0.001000: 2214 221
+	decay channel with BR 0.001000: 2214 331
+	decay channel with BR 0.001000: 2214 113
+	decay channel with BR 0.001000: 2214 223
+	decay channel with BR 0.003000: 2112 211
+	decay channel with BR 0.003000: 2112 213
+	decay channel with BR 0.003000: 2114 211
+	decay channel with BR 0.003000: 2114 213
+	decay channel with BR 0.005000: 3122 321
+	decay channel with BR 0.005000: 3122 323
+	decay channel with BR 0.002000: 3212 321
+	decay channel with BR 0.002000: 3212 323
+	decay channel with BR 0.001000: 3214 321
+	decay channel with BR 0.001000: 3214 323
+	decay channel with BR 0.002000: 3222 311
+	decay channel with BR 0.002000: 3222 313
+	decay channel with BR 0.001000: 3224 311
+	decay channel with BR 0.001000: 3224 313
+loaded Lambdac(2595)+ (PDG 14122): stable 0, mass 2.595400, degeneracy 2, statistics 1
+	calculated primary yield: 3712292617.466830 +- 299756838.817572
+	decay channel with BR 0.180000: 4122 211 -211
+	decay channel with BR 0.240000: 4222 -211
+	decay channel with BR 0.240000: 4112 211
+loaded Sigmac(2455)++ (PDG 4222): stable 0, mass 2.454020, degeneracy 2, statistics 1
+	calculated primary yield: 3712313304.943757 +- 299758424.312517
+	decay channel with BR 1.000000: 4122 211
+loaded Sigmac(2455)+ (PDG 4212): stable 0, mass 2.452920, degeneracy 2, statistics 1
+	calculated primary yield: 3712313461.337705 +- 299758436.282337
+	decay channel with BR 1.000000: 4122 111
+loaded Sigmac(2455)0 (PDG 4112): stable 0, mass 2.452920, degeneracy 2, statistics 1
+	calculated primary yield: 3712313461.337705 +- 299758436.282337
+	decay channel with BR 1.000000: 4122 -211
+loaded Sigmac(2520)++ (PDG 4224): stable 0, mass 2.518400, degeneracy 4, statistics 1
+	calculated primary yield: 7424608057.757351 +- 599515427.821080
+	decay channel with BR 1.000000: 4122 211
+loaded Sigmac(2520)+ (PDG 4214): stable 0, mass 2.517500, degeneracy 4, statistics 1
+	calculated primary yield: 7424608320.434160 +- 599515447.950054
+	decay channel with BR 1.000000: 4122 111
+loaded Sigmac(2520)0 (PDG 4114): stable 0, mass 2.518000, degeneracy 4, statistics 1
+	calculated primary yield: 7424608174.514250 +- 599515436.768225
+	decay channel with BR 1.000000: 4122 -211
+loaded Xic+ (PDG 4232): stable 1, mass 2.467900, degeneracy 2, statistics 1
+	calculated primary yield: 3712311325.482196 +- 299758272.789928
+loaded Xic0 (PDG 4132): stable 1, mass 2.471000, degeneracy 2, statistics 1
+	calculated primary yield: 3712310881.850697 +- 299758238.825573
+loaded Xic'+ (PDG 4322): stable 0, mass 2.575700, degeneracy 2, statistics 1
+	calculated primary yield: 3712295569.883839 +- 299757065.344313
+	decay channel with BR 1.000000: 4232
+loaded Xic'0 (PDG 4312): stable 0, mass 2.578000, degeneracy 2, statistics 1
+	calculated primary yield: 3712295226.350926 +- 299757038.990633
+	decay channel with BR 1.000000: 4132
+loaded Xic(2645)+ (PDG 4324): stable 0, mass 2.646600, degeneracy 4, statistics 1
+	calculated primary yield: 7424569676.912992 +- 599512483.168660
+	decay channel with BR 0.500000: 4232 111
+	decay channel with BR 0.500000: 4232
+loaded Xic(2645)0 (PDG 4314): stable 0, mass 2.646100, degeneracy 4, statistics 1
+	calculated primary yield: 7424569830.323434 +- 599512494.952045
+	decay channel with BR 0.500000: 4132 111
+	decay channel with BR 0.500000: 4132
+loaded Omegac0 (PDG 4332): stable 1, mass 2.697500, degeneracy 2, statistics 1
+	calculated primary yield: 3712276953.663275 +- 299755635.683004
+loaded Xicc++ (PDG 4422): stable 1, mass 3.518900, degeneracy 2, statistics 1
+	calculated primary yield: 3712128839.304310 +- 299744174.371240
+loaded Xi(cc)+ (PDG 4412): stable 1, mass 3.518900, degeneracy 2, statistics 1
+	calculated primary yield: 3712128839.304310 +- 299744174.371240
+loaded Lambdab0 (PDG 5122): stable 0, mass 5.620200, degeneracy 2, statistics 1
+	calculated primary yield: 3711571080.507094 +- 299700381.292064
+	decay channel with BR 0.770000: 4122 -211
+	decay channel with BR 0.020000: 4122 -213
+	decay channel with BR 0.023000: -20213
+	decay channel with BR 0.028000: -431
+	decay channel with BR 0.043000: -433
+	decay channel with BR 0.011000: 441 3122
+	decay channel with BR 0.022000: 443 3122
+	decay channel with BR 0.044000: 20443 3122
+loaded Xib- (PDG 5232): stable 1, mass 5.792400, degeneracy 2, statistics 1
+	calculated primary yield: 3711513983.232094 +- 299695872.047706
+loaded Xib0 (PDG 5132): stable 1, mass 5.792400, degeneracy 2, statistics 1
+	calculated primary yield: 3711513983.232094 +- 299695872.047706
+
+Total yields of stable particles:
+Deuteron (PDG 1000010020): 7438572273.622093 +- 628318042.651327
+Triton (PDG 1000010030): 3712259166.905451 +- 299754266.965475
+HE3 (PDG 1000020030): 3712259253.224313 +- 299754273.613948
+Alpha (PDG 1000020040): 2478466849.528217 +- 209201266.562578
+LambdaNeutron (PDG 1010000020): 7438341319.961964 +- 628261351.276389
+LambdaProton (PDG 1010010020): 7438068192.477678 +- 628195515.470261
+DiLambda (PDG 1020000020): 2479367482.977707 +- 209401234.991197
+HyperTriton (PDG 1010010030): 3712228519.574905 +- 299751902.960745
+HyperHydrogen (PDG 1010010040): 2478322929.705815 +- 209171590.271439
+HyperHelium (PDG 1010020040): 2478323915.092792 +- 209171791.735663
+HyperHelium5 (PDG 1010020050): 3711808199.289466 +- 299719070.332910
+pi+ (PDG 211): 311369726478.693176 +- 25921445211.352051
+pi0 (PDG 111): 284781991008.483704 +- 23685450357.104660
+K+ (PDG 321): 71610868515.943130 +- 6044871794.169240
+K0L (PDG 130): 33539304577.044910 +- 2831169875.539796
+K0S (PDG 310): 33539304577.044910 +- 2831169875.539796
+p (PDG 2212): 102576177759.736008 +- 8282747554.902401
+n (PDG 2112): 97459483026.611038 +- 7869557166.881984
+Lambda (PDG 3122): 61204635702.513451 +- 4942088026.223121
+Sigma+ (PDG 3222): 16394434060.963608 +- 1323800608.212606
+Sigma- (PDG 3112): 16164515822.982859 +- 1305235379.904281
+Ksi0 (PDG 3322): 10722058248.006172 +- 865773338.623293
+Ksi- (PDG 3312): 10680713263.913654 +- 862434853.406514
+Omega (PDG 3334): 7424813347.709134 +- 599531029.230227
+K0_(800)+ (PDG 9000321): 2479867877.126342 +- 209528616.228244
+K0_(800)0 (PDG 9000311): 2479867877.126342 +- 209528616.228244
+h1(1380) (PDG 10333): 7439100009.549384 +- 628451640.916070
+pi1(1400)+ (PDG 9000213): 7439132210.333188 +- 628460000.551849
+pi1(1400)0 (PDG 9000113): 7439132210.333188 +- 628460000.551849
+f2(1430) (PDG 9000225): 12398393785.566984 +- 1047391951.011815
+f1(1510) (PDG 9000223): 7438971823.759815 +- 628418617.327537
+pi1(1600)+ (PDG 9010213): 7438820002.393481 +- 628380000.380009
+pi1(1600)0 (PDG 9010113): 7438820002.393481 +- 628380000.380009
+a1(1640)+ (PDG 9020213): 7438836393.441566 +- 628384144.905429
+a1(1640)0 (PDG 9020113): 7438836393.441566 +- 628384144.905429
+f2(1640) (PDG 9020225): 12398075134.731682 +- 1047310573.180076
+eta2(1645) (PDG 10225): 12398114625.503862 +- 1047320583.320358
+a2(1700)+ (PDG 9000215): 12397902927.030289 +- 1047267157.906440
+a2(1700)0 (PDG 9000115): 12397902927.030289 +- 1047267157.906440
+eta(1760) (PDG 9040221): 2479571422.342774 +- 209451134.095651
+f2(1810) (PDG 9030225): 12397742104.569164 +- 1047226947.548166
+f2(1910) (PDG 9040225): 12397564336.418026 +- 1047182859.240968
+rho3(1990)+ (PDG 9000217): 17356357842.199730 +- 1465998863.784854
+rho3(1990)0 (PDG 9000117): 17356357842.199730 +- 1465998863.784854
+f0(2020) (PDG 9050221): 2479475408.120636 +- 209427359.589940
+f2(2340) (PDG 9090225): 12396573912.797043 +- 1046943439.618151
+K2(1580)+ (PDG 9000325): 12398382423.339830 +- 1047389024.797277
+K2(1580)0 (PDG 9000315): 12398382423.339830 +- 1047389024.797277
+K1(1650)+ (PDG 9000323): 7438833125.888544 +- 628383318.229696
+K1(1650)0 (PDG 9000313): 7438833125.888544 +- 628383318.229696
+K3(2320)+ (PDG 9010327): 17355258570.248798 +- 1465733873.907726
+K3(2320)0 (PDG 9010317): 17355258570.248798 +- 1465733873.907726
+K4(2500)+ (PDG 9000329): 22313148955.542938 +- 1884337339.896423
+K4(2500)0 (PDG 9000319): 22313148955.542938 +- 1884337339.896423
+etac(1S)0 (PDG 441): 2666771520.653185 +- 225077367.259666
+J/psi(1S)0 (PDG 443): 16581815928.211349 +- 1399523490.960415
+etac(2S)0 (PDG 100441): 2478531548.271116 +- 209214778.682928
+Upsilon(1S)0 (PDG 553): 28655357469.197693 +- 2412217534.231226
+Upsilon(10860)0 (PDG 9000553): 7410145299.061553 +- 623561739.717280
+Upsilon(11020)0 (PDG 9010553): 7409413826.936239 +- 623462078.596397
+Xic+ (PDG 4232): 12993034153.050779 +- 1049149700.510737
+Xic0 (PDG 4132): 12993033480.944199 +- 1049149649.030239
+Omegac0 (PDG 4332): 3712276953.663275 +- 299755635.683004
+Xicc++ (PDG 4422): 3712128839.304310 +- 299744174.371240
+Xi(cc)+ (PDG 4412): 3712128839.304310 +- 299744174.371240
+Xib- (PDG 5232): 3711513983.232094 +- 299695872.047706
+Xib0 (PDG 5132): 3711513983.232094 +- 299695872.047706
